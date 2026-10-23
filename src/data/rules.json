@@ -1,0 +1,85 @@
+[
+  {
+    "id": "onhit-applier-with-onhit-items",
+    "explanation": "You own on-hit items, so ability on-hit application pays off",
+    "delta": 1,
+    "when": {
+      "augmentHasAnyTag": [
+        "on-hit-applier"
+      ],
+      "itemTagCount": {
+        "tag": "on-hit",
+        "min": 1
+      }
+    }
+  },
+  {
+    "id": "onhit-applier-with-heartsteel",
+    "explanation": "Heartsteel procs on hit, so on-hit application triggers it more often",
+    "delta": 1.5,
+    "when": {
+      "augmentHasAnyTag": [
+        "on-hit-applier"
+      ],
+      "itemIdsAny": [
+        "heartsteel"
+      ]
+    }
+  },
+  {
+    "id": "onhit-applier-with-two-onhit-items",
+    "explanation": "Two or more on-hit items multiply the value of every ability cast",
+    "delta": 0.5,
+    "when": {
+      "augmentHasAnyTag": [
+        "on-hit-applier"
+      ],
+      "itemTagCount": {
+        "tag": "on-hit",
+        "min": 2
+      }
+    }
+  },
+  {
+    "id": "attack-speed-with-onhit-items",
+    "explanation": "On-hit items scale with attack speed",
+    "delta": 0.75,
+    "when": {
+      "augmentHasAnyTag": [
+        "attack-speed"
+      ],
+      "itemTagCount": {
+        "tag": "on-hit",
+        "min": 1
+      }
+    }
+  },
+  {
+    "id": "health-with-health-stacking",
+    "explanation": "You already stack health, which amplifies this",
+    "delta": 0.75,
+    "when": {
+      "augmentHasAnyTag": [
+        "health"
+      ],
+      "itemTagCount": {
+        "tag": "health",
+        "min": 1
+      }
+    }
+  },
+  {
+    "id": "burst-with-ap-items",
+    "explanation": "You own ability-power items, so bonus ability damage scales well",
+    "delta": 0.75,
+    "when": {
+      "augmentHasAnyTag": [
+        "ap-burst"
+      ],
+      "itemTagCount": {
+        "tag": "ap-burst",
+        "min": 1
+      }
+    }
+  }
+]

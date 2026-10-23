@@ -1,0 +1,5 @@
+[
+  { "id": "sample-bruiser", "name": "[Sample] Bruiser", "tags": ["bruiser", "tank"] },
+  { "id": "sample-marksman", "name": "[Sample] Marksman", "tags": ["marksman", "attack-speed-carry"] },
+  { "id": "sample-mage", "name": "[Sample] Mage", "tags": ["mage", "ap-burst"] }
+]

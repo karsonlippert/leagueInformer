@@ -1,0 +1,10 @@
+[
+  { "id": "sample-ability-onhit", "name": "[Sample] Abilities Apply On-Hit", "rarity": "gold", "baseTier": "C", "tags": ["on-hit-applier", "ability"], "note": "Your abilities apply on-hit effects. Weak alone, strong with on-hit items." },
+  { "id": "sample-bonus-hp", "name": "[Sample] Bonus Health", "rarity": "silver", "baseTier": "B", "tags": ["health"], "note": "Flat bonus health." },
+  { "id": "sample-ap-burst", "name": "[Sample] Ability Burst", "rarity": "gold", "baseTier": "B", "tags": ["ap-burst", "ability"], "note": "Abilities deal bonus magic damage." },
+  { "id": "sample-attack-speed", "name": "[Sample] Attack Speed Surge", "rarity": "silver", "baseTier": "B", "tags": ["attack-speed"], "note": "Bonus attack speed." },
+  { "id": "sample-shield-heal", "name": "[Sample] Shield and Heal", "rarity": "gold", "baseTier": "B", "tags": ["sustain"], "note": "Gain a shield when healing." },
+  { "id": "sample-set-a1", "name": "[Sample] Sample Set A: Piece 1", "rarity": "silver", "baseTier": "C", "tags": ["set-filler"], "setId": "sample-set-a" },
+  { "id": "sample-set-a2", "name": "[Sample] Sample Set A: Piece 2", "rarity": "gold", "baseTier": "C", "tags": ["set-filler"], "setId": "sample-set-a" },
+  { "id": "sample-set-a3", "name": "[Sample] Sample Set A: Piece 3", "rarity": "prismatic", "baseTier": "B", "tags": ["set-filler"], "setId": "sample-set-a" }
+]

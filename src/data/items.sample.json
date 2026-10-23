@@ -1,0 +1,8 @@
+[
+  { "id": "heartsteel", "name": "Heartsteel", "tags": ["health", "tank", "on-hit-scaling"] },
+  { "id": "blade-of-the-ruined-king", "name": "Blade of the Ruined King", "tags": ["on-hit", "attack-speed"] },
+  { "id": "guinsoos-rageblade", "name": "Guinsoo's Rageblade", "tags": ["on-hit", "attack-speed", "ap-scaling"] },
+  { "id": "kraken-slayer", "name": "Kraken Slayer", "tags": ["on-hit", "attack-speed"] },
+  { "id": "rabadons-deathcap", "name": "Rabadon's Deathcap", "tags": ["ap-burst"] },
+  { "id": "warmogs-armor", "name": "Warmog's Armor", "tags": ["health", "tank"] }
+]
