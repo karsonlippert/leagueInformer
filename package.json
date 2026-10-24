@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "preview": "vite preview",
-    "test": "node --test src/engine/*.test.ts",
+    "test": "node --experimental-strip-types --no-warnings --test src/engine/*.test.ts",
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {

@@ -20,7 +20,7 @@ to run alongside the game. See `docs/RESEARCH.md` for the compliance rules and t
 
 ```
 npm install
-npm test        # engine tests, uses Node's built-in test runner (Node 22.18+)
+npm test        # engine tests, uses Node's built-in test runner (Node 22.6+)
 npm run dev
 ```
 
