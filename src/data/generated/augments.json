@@ -1,0 +1,1196 @@
+[
+  {
+    "id": "393",
+    "name": "Icathia's Fall",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/quest_voidimmolation_small.png"
+  },
+  {
+    "id": "396",
+    "name": "Death Dealer",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/death_dealer_small.png"
+  },
+  {
+    "id": "397",
+    "name": "Got That Dog In Em",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/got_that_dog_small.png"
+  },
+  {
+    "id": "1001",
+    "name": "Titan's Resolve",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/iamthejuggernaut_small.png"
+  },
+  {
+    "id": "1005",
+    "name": "Wee Woo Wee Woo",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/weewooweewoo_small.png"
+  },
+  {
+    "id": "1032",
+    "name": "Executioner",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/spiritualpurification_small.png"
+  },
+  {
+    "id": "1034",
+    "name": "Veil of Warding",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/poltergeist_small.png"
+  },
+  {
+    "id": "1082",
+    "name": "The Brutalizer",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/thebrutalizer_small.png"
+  },
+  {
+    "id": "1103",
+    "name": "Bread And Butter",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.png"
+  },
+  {
+    "id": "1108",
+    "name": "Self Destruct",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/maps/particles/kiwi/selfdestruct_small.png"
+  },
+  {
+    "id": "1133",
+    "name": "Magic Missile",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/maps/particles/kiwi/magicmissile_small.png"
+  },
+  {
+    "id": "1150",
+    "name": "Bread And Jam",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.png"
+  },
+  {
+    "id": "1151",
+    "name": "Bread and Cheese",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.png"
+  },
+  {
+    "id": "1154",
+    "name": "Urf's Champion",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/quest_urfschampion_small.png"
+  },
+  {
+    "id": "1313",
+    "name": "Cheating",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/cheating_small.png"
+  },
+  {
+    "id": "1314",
+    "name": "Mighty Shield",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/mightyshield_small.png"
+  },
+  {
+    "id": "1315",
+    "name": "Swift and Safe",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/swiftandsafe_small.png"
+  },
+  {
+    "id": "1316",
+    "name": "Wind Beneath Blade",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/windbeneathblade_small.png"
+  },
+  {
+    "id": "1317",
+    "name": "Upgrade Cutlass",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/upgradecutlass_small.png"
+  },
+  {
+    "id": "1318",
+    "name": "Upgrade Zhonya's",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/upgradezh_small.png"
+  },
+  {
+    "id": "1319",
+    "name": "Upgrade Immolate",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/upgradeimmolate_small.png"
+  },
+  {
+    "id": "1320",
+    "name": "Upgrade Collector",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/upgradecollector_small.png"
+  },
+  {
+    "id": "1321",
+    "name": "Gash",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/darksteeltalons_small.png"
+  },
+  {
+    "id": "1322",
+    "name": "Get Excited!",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/getexcited_small.png"
+  },
+  {
+    "id": "1323",
+    "name": "Cruelty",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/cruelty_small.png"
+  },
+  {
+    "id": "1324",
+    "name": "Protein Shake",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/proteinshake_small.png"
+  },
+  {
+    "id": "1325",
+    "name": "Glass Cannon",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/glasscannon_small.png"
+  },
+  {
+    "id": "1326",
+    "name": "Nightstalking",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/nightstalking_small.png"
+  },
+  {
+    "id": "1327",
+    "name": "Adamant",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/adamant_small.png"
+  },
+  {
+    "id": "1328",
+    "name": "Critical Rhythm",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/criticalrhythm_small.png"
+  },
+  {
+    "id": "1329",
+    "name": "Biggest Snowball Ever",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/biggestsnowballever_small.png"
+  },
+  {
+    "id": "1330",
+    "name": "ReEnergize",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/mobiuscoil_small.png"
+  },
+  {
+    "id": "1331",
+    "name": "Empyrean Promise",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/empyreampromise_small.png"
+  },
+  {
+    "id": "1333",
+    "name": "Escape Plan",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/escapeplan_small.png"
+  },
+  {
+    "id": "1334",
+    "name": "Snowball Upgrade",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/snowballupgrade_small.png"
+  },
+  {
+    "id": "1335",
+    "name": "Goldrend",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/goldrend_small.png"
+  },
+  {
+    "id": "1336",
+    "name": "Upgrade Infinity Edge",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/upgradeie_small.png"
+  },
+  {
+    "id": "1337",
+    "name": "King Me",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/kingme_small.png"
+  },
+  {
+    "id": "1338",
+    "name": "Upgrade Hubris",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/upgradehubris_small.png"
+  },
+  {
+    "id": "1339",
+    "name": "Laser Heal",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/laseheal_small.png"
+  },
+  {
+    "id": "1340",
+    "name": "Upgrade Mikael's Blessing",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/upgrademikaelsblessing_small.png"
+  },
+  {
+    "id": "1341",
+    "name": "Hat on a Hat",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/hatonahat_small.png"
+  },
+  {
+    "id": "1342",
+    "name": "Snowball Roulette",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/snowballupgrade_small.png"
+  },
+  {
+    "id": "1343",
+    "name": "Sneakerhead",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/sneakerhead_small.png"
+  },
+  {
+    "id": "1344",
+    "name": "Final Form",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/finalform_small.png"
+  },
+  {
+    "id": "1345",
+    "name": "Spiritual Purification",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/spiritualpurification_small.png"
+  },
+  {
+    "id": "1346",
+    "name": "Vampirism",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/vampired_small.png"
+  },
+  {
+    "id": "1347",
+    "name": "Poltergeist",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/poltergeist_small.png"
+  },
+  {
+    "id": "1348",
+    "name": "Flash 2",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/flash2_small.png"
+  },
+  {
+    "id": "1349",
+    "name": "Ultimate Awakening",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/zerohour_small.png"
+  },
+  {
+    "id": "1356",
+    "name": "Critical Missile",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/criticalmissile_small.png"
+  },
+  {
+    "id": "1358",
+    "name": "Pinball",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/pinballsnowball_small.png"
+  },
+  {
+    "id": "1361",
+    "name": "Icathia's Fall",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/quest_voidimmolation_small.png"
+  },
+  {
+    "id": "1372",
+    "name": "I'm a Baby Kitty Where is Mama",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/babykitty_small.png"
+  },
+  {
+    "id": "1373",
+    "name": "Shrink Engine",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/shrinkengine_small.png"
+  },
+  {
+    "id": "1375",
+    "name": "Soul Eater",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/souleater_small.png"
+  },
+  {
+    "id": "1379",
+    "name": "Upgrade Sword of Blossoming Dawn",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/upgrademikaelsblessing_small.png"
+  },
+  {
+    "id": "1384",
+    "name": "Donation",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/donation_small.png"
+  },
+  {
+    "id": "1386",
+    "name": "Spin Me Right Round",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/youspinmerightround_small.png"
+  },
+  {
+    "id": "1388",
+    "name": "Infinite Recursion",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/infiniterecursion_small.png"
+  },
+  {
+    "id": "1389",
+    "name": "Hand of Baron",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/handofbaron_small.png"
+  },
+  {
+    "id": "1390",
+    "name": "Phenomenal Evil",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/aram_phenomenalevil_small.png"
+  },
+  {
+    "id": "1391",
+    "name": "Red Envelopes",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/redenvelopes_small.png"
+  },
+  {
+    "id": "1392",
+    "name": "Holy Snowball",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/goldensnowball_small.png"
+  },
+  {
+    "id": "1400",
+    "name": "Final City Transit",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/nightstalking_small.png"
+  },
+  {
+    "id": "1401",
+    "name": "Growth Spurt",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/growthspurt_small.png"
+  },
+  {
+    "id": "1405",
+    "name": "Speed Demon",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/speeddemon_small.png"
+  },
+  {
+    "id": "1406",
+    "name": "Grandma's Chili Oil",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/grandmaschilioil_small.png"
+  },
+  {
+    "id": "1409",
+    "name": "Poro Blaster",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/poroblast_small.png"
+  },
+  {
+    "id": "1411",
+    "name": "Upgrade Thornmail",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/upgradecollector_small.png"
+  },
+  {
+    "id": "1413",
+    "name": "Stuck In Here With Me",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/stuckinherewithme_small.png"
+  },
+  {
+    "id": "1415",
+    "name": "Twin Fire",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/twinfire_small.png"
+  },
+  {
+    "id": "1418",
+    "name": "Crack Open That Egg",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/crackopenthategg_small.png"
+  },
+  {
+    "id": "1420",
+    "name": "Sonata",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/sonata_small.png"
+  },
+  {
+    "id": "1421",
+    "name": "Prom Queen",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/promqueen_small.png"
+  },
+  {
+    "id": "1424",
+    "name": "???",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/missingping_small.png"
+  },
+  {
+    "id": "1996",
+    "name": "Upgrade Sheen",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/upgradesheen_small.png"
+  },
+  {
+    "id": "2001",
+    "name": "Heads Up Cupcake!",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/watchoutgrapefruit_small.png"
+  },
+  {
+    "id": "2002",
+    "name": "Void Rift",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/voidrift_small.png"
+  },
+  {
+    "id": "2003",
+    "name": "Bounce of the Poro King",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/poroking_small.png"
+  },
+  {
+    "id": "2004",
+    "name": "Empowered By The Faithful",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/empoweredbythefaithful_small.png"
+  },
+  {
+    "id": "2006",
+    "name": "Dropkick",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/dropkick_small.png"
+  },
+  {
+    "id": "2007",
+    "name": "Devil on Your Shoulder",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/littledevil_small.png"
+  },
+  {
+    "id": "2008",
+    "name": "Weighted Popoffs",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/weightedpopoffs_small.png"
+  },
+  {
+    "id": "2009",
+    "name": "Zealot",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/zealot_small.png"
+  },
+  {
+    "id": "2016",
+    "name": "Juiced",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/juiced_small.png"
+  },
+  {
+    "id": "2018",
+    "name": "Purist - Caster",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/puristcaster_small.png"
+  },
+  {
+    "id": "2024",
+    "name": "Crit 'n Cast",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/critncast_small.png"
+  },
+  {
+    "id": "2026",
+    "name": "Kill Secured",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/killsecure_small.png"
+  },
+  {
+    "id": "2032",
+    "name": "Shark Bait",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/fishbait_small.png"
+  },
+  {
+    "id": "2034",
+    "name": "Shark Tempest",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/sharktempest_small.png"
+  },
+  {
+    "id": "2042",
+    "name": "Hide on Bush",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/brushpower_small.png"
+  },
+  {
+    "id": "2043",
+    "name": "Nature is Healing",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/natureishealing_small.png"
+  },
+  {
+    "id": "2046",
+    "name": "Poro Stampede",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/questporocharge_small.png"
+  },
+  {
+    "id": "2054",
+    "name": "Tripleshot",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_prismatic.png"
+  },
+  {
+    "id": "2055",
+    "name": "Multishot",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_prismatic.png"
+  },
+  {
+    "id": "2062",
+    "name": "Echo Cast",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_prismatic.png"
+  },
+  {
+    "id": "2063",
+    "name": "Dimension Shift",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/whenthedarknesscomes_small.png"
+  },
+  {
+    "id": "2064",
+    "name": "Quickstep",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.png"
+  },
+  {
+    "id": "2072",
+    "name": "Spell Split",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_prismatic.png"
+  },
+  {
+    "id": "2073",
+    "name": "Siphon",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_silver.png"
+  },
+  {
+    "id": "2076",
+    "name": "Stay Resolute",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_silver.png"
+  },
+  {
+    "id": "2077",
+    "name": "Ravenous Bind",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/upgradehubris_small.png"
+  },
+  {
+    "id": "2078",
+    "name": "Chain Reaction",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.png"
+  },
+  {
+    "id": "2080",
+    "name": "Snowblast",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/snowbomb_small.png"
+  },
+  {
+    "id": "2082",
+    "name": "Our Healing",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/equillibrium_small.png"
+  },
+  {
+    "id": "2083",
+    "name": "Tooth Fairy",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/questburstingteeth_small.png"
+  },
+  {
+    "id": "2088",
+    "name": "Snowday",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/snowday_small.png"
+  },
+  {
+    "id": "2089",
+    "name": "Yowch, My Coins!",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/youchmycoins_small.png"
+  },
+  {
+    "id": "2095",
+    "name": "High Roller",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/highroller_small.png"
+  },
+  {
+    "id": "2096",
+    "name": "Lil' Extra Help",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.png"
+  },
+  {
+    "id": "2097",
+    "name": "Void Dash",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.png"
+  },
+  {
+    "id": "2099",
+    "name": "Rite of Ascension",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/glasscannon_small.png"
+  },
+  {
+    "id": "2100",
+    "name": "Pursuit of Haste",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.png"
+  },
+  {
+    "id": "2102",
+    "name": "Pressure Cooker",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/questpressurecooker_small.png"
+  },
+  {
+    "id": "2103",
+    "name": "From Downtown",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/questbangbang_small.png"
+  },
+  {
+    "id": "2104",
+    "name": "Spirit Bomb",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/spiritbomb_small.png"
+  },
+  {
+    "id": "2107",
+    "name": "Hellbent",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/hellbent_small.png"
+  },
+  {
+    "id": "2108",
+    "name": "Support Main",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/questsupportmain_small.png"
+  },
+  {
+    "id": "2109",
+    "name": "Snap Back",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.png"
+  },
+  {
+    "id": "2111",
+    "name": "BONK!",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/bonk_large.png"
+  },
+  {
+    "id": "2115",
+    "name": "Squishy Slappy Grab",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/squishyslappygrab_small.png"
+  },
+  {
+    "id": "2118",
+    "name": "Ult Bot",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/skipthebasic_small.png"
+  },
+  {
+    "id": "2119",
+    "name": "Overextender",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/overextender_small.png"
+  },
+  {
+    "id": "2123",
+    "name": "Overloaded",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_prismatic.png"
+  },
+  {
+    "id": "2125",
+    "name": "It's Go Time",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_silver.png"
+  },
+  {
+    "id": "2127",
+    "name": "Forged By The Master",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/forgedbythemaster_small.png"
+  },
+  {
+    "id": "2128",
+    "name": "Combusting Interest",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/bloodmoney2_small.png"
+  },
+  {
+    "id": "2131",
+    "name": "Don't Change the Channel",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/dontchangethechannel_small.png"
+  },
+  {
+    "id": "2132",
+    "name": "Warlock Juicebox",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/warlockjuicebox_small.png"
+  },
+  {
+    "id": "2133",
+    "name": "Mercy's Strike",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.png"
+  },
+  {
+    "id": "2134",
+    "name": "Surge Field",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/surgefield_small.png"
+  },
+  {
+    "id": "2136",
+    "name": "Trusty Weapon",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_silver.png"
+  },
+  {
+    "id": "2137",
+    "name": "Pat On The Back",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/patontheback_small.png"
+  },
+  {
+    "id": "2138",
+    "name": "Adaptive Ward",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_silver.png"
+  },
+  {
+    "id": "2139",
+    "name": "Porcupine",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/pincushion_small.png"
+  },
+  {
+    "id": "2140",
+    "name": "Upgrade Ravenous Hydra",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/upgradesheen_small.png"
+  },
+  {
+    "id": "2141",
+    "name": "Ultra Hydra",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/ultrahydra_small.png"
+  },
+  {
+    "id": "2143",
+    "name": "Upgrade Sundered Sky",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/upgradeie_small.png"
+  },
+  {
+    "id": "2144",
+    "name": "Bolstered",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_silver.png"
+  },
+  {
+    "id": "2148",
+    "name": "Double Strike",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/adamant_small.png"
+  },
+  {
+    "id": "2157",
+    "name": "Upgrade Death's Dance",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/upgradedeathdance_small.png"
+  },
+  {
+    "id": "3004",
+    "name": "Get Jinxed",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/overextender_small.png"
+  },
+  {
+    "id": "3016",
+    "name": "Third Times the Harm",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/silverbeats_small.png"
+  },
+  {
+    "id": "3018",
+    "name": "Big Shot",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/bigshot_small.png"
+  },
+  {
+    "id": "3025",
+    "name": "Sound Barrier",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/swiftandsafe_small.png"
+  },
+  {
+    "id": "3036",
+    "name": "Double Time",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/aram_phenomenalevil_large.png"
+  },
+  {
+    "id": "3039",
+    "name": "Salvation",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/salvation_small.png"
+  },
+  {
+    "id": "3048",
+    "name": "Bouncing Bees",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/kingme_large.png"
+  },
+  {
+    "id": "3049",
+    "name": "Armored Impact",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/armoredimpact_small.png"
+  },
+  {
+    "id": "3051",
+    "name": "Blue Barrier",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/bluenote_small.png"
+  },
+  {
+    "id": "3052",
+    "name": "Hands off the Talent",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/bonk_large.png"
+  },
+  {
+    "id": "3053",
+    "name": "Mosh Monster",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_prismatic.png"
+  },
+  {
+    "id": "3055",
+    "name": "Ultimate Recursion",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/zealot_large.png"
+  },
+  {
+    "id": "3058",
+    "name": "Tickle Monster",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/ticklemonster_small.png"
+  },
+  {
+    "id": "3059",
+    "name": "No Mana, No Problem",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/nomananoproblem_small.png"
+  },
+  {
+    "id": "3060",
+    "name": "One Hit Wonder",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.png"
+  },
+  {
+    "id": "3063",
+    "name": "Gift of the Drowned",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/giftofthedrowned_small.png"
+  },
+  {
+    "id": "3071",
+    "name": "Brass Blast",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/camo_large.png"
+  },
+  {
+    "id": "3075",
+    "name": "Recoil",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.png"
+  },
+  {
+    "id": "3078",
+    "name": "The Boom and the Bass",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/theboomandthebass_small.png"
+  },
+  {
+    "id": "3079",
+    "name": "Totentanz",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/totentanz_small.png"
+  },
+  {
+    "id": "3081",
+    "name": "Weapon of Destiny",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/protagonistssignatureweapon_small.png"
+  },
+  {
+    "id": "3085",
+    "name": "Flow of Spirit",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.png"
+  },
+  {
+    "id": "3086",
+    "name": "BEES!!!",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/bees_small.png"
+  },
+  {
+    "id": "3088",
+    "name": "CRIMSON COBALT",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.png"
+  },
+  {
+    "id": "3094",
+    "name": "Lich Brain",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/lichbrain_small.png"
+  },
+  {
+    "id": "3116",
+    "name": "Take'em Down Down Down",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/takeemdowndowndown_small.png"
+  },
+  {
+    "id": "3118",
+    "name": "Arcane Axiom",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/arcaneaxiom_small.png"
+  },
+  {
+    "id": "3121",
+    "name": "Fruitify",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/fruitseason_small.png"
+  },
+  {
+    "id": "3123",
+    "name": "Jeweled Bracelet",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.png"
+  },
+  {
+    "id": "3129",
+    "name": "Sap Magic",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/mercysstrike_small.png"
+  },
+  {
+    "id": "3131",
+    "name": "Still Here",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/stillhere_small.png"
+  },
+  {
+    "id": "3132",
+    "name": "Heavy Is The Crown",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/heavyisthecrown_small.png"
+  },
+  {
+    "id": "3134",
+    "name": "Lonely Warrior",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/adamant_small.png"
+  },
+  {
+    "id": "3149",
+    "name": "Group Hug",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/empyreampromise_small.png"
+  },
+  {
+    "id": "3150",
+    "name": "Upgrade Stormsurge",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/upgradehubris_small.png"
+  },
+  {
+    "id": "3159",
+    "name": "RISE",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/zerohour_large.png"
+  },
+  {
+    "id": "3163",
+    "name": "Enchanting Butterflies",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/enchantedbuttery_small.png"
+  },
+  {
+    "id": "3170",
+    "name": "HEAVY",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/pentakill_small.png"
+  },
+  {
+    "id": "3171",
+    "name": "POWER",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/pentakill_small.png"
+  },
+  {
+    "id": "3172",
+    "name": "THRASH",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/pentakill_small.png"
+  },
+  {
+    "id": "3173",
+    "name": "DOOM",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/pentakill_small.png"
+  },
+  {
+    "id": "3176",
+    "name": "   ",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/pentakill_small.png"
+  },
+  {
+    "id": "7001",
+    "name": "Upgrade: Zz'Rot Portal",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/upgrade_zzrotportal_small.png"
+  },
+  {
+    "id": "7002",
+    "name": "Don't Stop Cleavin'",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/dont_stop_cleaving_small.png"
+  },
+  {
+    "id": "7003",
+    "name": "Do or Die",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/do_or_die_small.png"
+  },
+  {
+    "id": "7004",
+    "name": "Drink Up",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/drink_up_small.png"
+  },
+  {
+    "id": "7005",
+    "name": "Haste Makes Waste",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/haste_makes_waste_small.png"
+  },
+  {
+    "id": "7006",
+    "name": "Stabby Stabby",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/stabby_stabby_small.png"
+  },
+  {
+    "id": "7007",
+    "name": "Upgrade: Deathfire Grasp",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/upgrade_deathfire_small.png"
+  },
+  {
+    "id": "7008",
+    "name": "Doran's Biggest Fan",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/dorans_fan_small.png"
+  },
+  {
+    "id": "7009",
+    "name": "Upgrade: Innervating Locket",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/upgrade_innervating_small.png"
+  },
+  {
+    "id": "7010",
+    "name": "Time Warp: Heartsteel",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/fs_heart_steal_small.png"
+  },
+  {
+    "id": "7011",
+    "name": "True Eternity",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/do_or_die_small.png"
+  },
+  {
+    "id": "7012",
+    "name": "The Hex Core",
+    "rarity": "prismatic",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/dont_stop_cleaving_small.png"
+  },
+  {
+    "id": "7013",
+    "name": "Spirit of the Jungle Main",
+    "rarity": "gold",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/spiritualpurification_small.png"
+  },
+  {
+    "id": "7014",
+    "name": "Ragebait",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/stabby_stabby_small.png"
+  },
+  {
+    "id": "7015",
+    "name": "Summoner's Safari",
+    "rarity": "silver",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/ux/kiwi/augments/icons/stabby_stabby_small.png"
+  }
+]

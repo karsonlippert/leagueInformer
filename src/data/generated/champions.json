@@ -1,0 +1,1516 @@
+[
+  {
+    "id": "Aatrox",
+    "name": "Aatrox",
+    "sourceTags": [
+      "fighter"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Aatrox.png"
+  },
+  {
+    "id": "Ahri",
+    "name": "Ahri",
+    "sourceTags": [
+      "mage",
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Ahri.png"
+  },
+  {
+    "id": "Akali",
+    "name": "Akali",
+    "sourceTags": [
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Akali.png"
+  },
+  {
+    "id": "Akshan",
+    "name": "Akshan",
+    "sourceTags": [
+      "marksman",
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Akshan.png"
+  },
+  {
+    "id": "Alistar",
+    "name": "Alistar",
+    "sourceTags": [
+      "tank",
+      "support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Alistar.png"
+  },
+  {
+    "id": "Ambessa",
+    "name": "Ambessa",
+    "sourceTags": [
+      "fighter",
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Ambessa.png"
+  },
+  {
+    "id": "Amumu",
+    "name": "Amumu",
+    "sourceTags": [
+      "tank",
+      "support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Amumu.png"
+  },
+  {
+    "id": "Anivia",
+    "name": "Anivia",
+    "sourceTags": [
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Anivia.png"
+  },
+  {
+    "id": "Annie",
+    "name": "Annie",
+    "sourceTags": [
+      "mage",
+      "support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Annie.png"
+  },
+  {
+    "id": "Aphelios",
+    "name": "Aphelios",
+    "sourceTags": [
+      "marksman"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Aphelios.png"
+  },
+  {
+    "id": "Ashe",
+    "name": "Ashe",
+    "sourceTags": [
+      "marksman",
+      "support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Ashe.png"
+  },
+  {
+    "id": "AurelionSol",
+    "name": "Aurelion Sol",
+    "sourceTags": [
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/AurelionSol.png"
+  },
+  {
+    "id": "Aurora",
+    "name": "Aurora",
+    "sourceTags": [
+      "mage",
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Aurora.png"
+  },
+  {
+    "id": "Azir",
+    "name": "Azir",
+    "sourceTags": [
+      "mage",
+      "marksman"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Azir.png"
+  },
+  {
+    "id": "Bard",
+    "name": "Bard",
+    "sourceTags": [
+      "support",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Bard.png"
+  },
+  {
+    "id": "Belveth",
+    "name": "Bel'Veth",
+    "sourceTags": [
+      "fighter"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Belveth.png"
+  },
+  {
+    "id": "Blitzcrank",
+    "name": "Blitzcrank",
+    "sourceTags": [
+      "tank",
+      "support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Blitzcrank.png"
+  },
+  {
+    "id": "Brand",
+    "name": "Brand",
+    "sourceTags": [
+      "mage",
+      "support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Brand.png"
+  },
+  {
+    "id": "Braum",
+    "name": "Braum",
+    "sourceTags": [
+      "tank",
+      "support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Braum.png"
+  },
+  {
+    "id": "Briar",
+    "name": "Briar",
+    "sourceTags": [
+      "fighter",
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Briar.png"
+  },
+  {
+    "id": "Caitlyn",
+    "name": "Caitlyn",
+    "sourceTags": [
+      "marksman"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Caitlyn.png"
+  },
+  {
+    "id": "Camille",
+    "name": "Camille",
+    "sourceTags": [
+      "fighter",
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Camille.png"
+  },
+  {
+    "id": "Cassiopeia",
+    "name": "Cassiopeia",
+    "sourceTags": [
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Cassiopeia.png"
+  },
+  {
+    "id": "Chogath",
+    "name": "Cho'Gath",
+    "sourceTags": [
+      "tank",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Chogath.png"
+  },
+  {
+    "id": "Corki",
+    "name": "Corki",
+    "sourceTags": [
+      "marksman",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Corki.png"
+  },
+  {
+    "id": "Darius",
+    "name": "Darius",
+    "sourceTags": [
+      "fighter",
+      "tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Darius.png"
+  },
+  {
+    "id": "Diana",
+    "name": "Diana",
+    "sourceTags": [
+      "fighter",
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Diana.png"
+  },
+  {
+    "id": "Draven",
+    "name": "Draven",
+    "sourceTags": [
+      "marksman"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Draven.png"
+  },
+  {
+    "id": "DrMundo",
+    "name": "Dr. Mundo",
+    "sourceTags": [
+      "tank",
+      "fighter"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/DrMundo.png"
+  },
+  {
+    "id": "Ekko",
+    "name": "Ekko",
+    "sourceTags": [
+      "assassin",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Ekko.png"
+  },
+  {
+    "id": "Elise",
+    "name": "Elise",
+    "sourceTags": [
+      "assassin",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Elise.png"
+  },
+  {
+    "id": "Evelynn",
+    "name": "Evelynn",
+    "sourceTags": [
+      "assassin",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Evelynn.png"
+  },
+  {
+    "id": "Ezreal",
+    "name": "Ezreal",
+    "sourceTags": [
+      "marksman",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Ezreal.png"
+  },
+  {
+    "id": "Fiddlesticks",
+    "name": "Fiddlesticks",
+    "sourceTags": [
+      "mage",
+      "support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Fiddlesticks.png"
+  },
+  {
+    "id": "Fiora",
+    "name": "Fiora",
+    "sourceTags": [
+      "fighter",
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Fiora.png"
+  },
+  {
+    "id": "Fizz",
+    "name": "Fizz",
+    "sourceTags": [
+      "assassin",
+      "fighter"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Fizz.png"
+  },
+  {
+    "id": "Galio",
+    "name": "Galio",
+    "sourceTags": [
+      "tank",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Galio.png"
+  },
+  {
+    "id": "Gangplank",
+    "name": "Gangplank",
+    "sourceTags": [
+      "fighter"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Gangplank.png"
+  },
+  {
+    "id": "Garen",
+    "name": "Garen",
+    "sourceTags": [
+      "fighter",
+      "tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Garen.png"
+  },
+  {
+    "id": "Gnar",
+    "name": "Gnar",
+    "sourceTags": [
+      "fighter",
+      "tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Gnar.png"
+  },
+  {
+    "id": "Gragas",
+    "name": "Gragas",
+    "sourceTags": [
+      "fighter",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Gragas.png"
+  },
+  {
+    "id": "Graves",
+    "name": "Graves",
+    "sourceTags": [
+      "marksman"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Graves.png"
+  },
+  {
+    "id": "Gwen",
+    "name": "Gwen",
+    "sourceTags": [
+      "fighter"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Gwen.png"
+  },
+  {
+    "id": "Hecarim",
+    "name": "Hecarim",
+    "sourceTags": [
+      "fighter",
+      "tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Hecarim.png"
+  },
+  {
+    "id": "Heimerdinger",
+    "name": "Heimerdinger",
+    "sourceTags": [
+      "mage",
+      "support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Heimerdinger.png"
+  },
+  {
+    "id": "Hwei",
+    "name": "Hwei",
+    "sourceTags": [
+      "mage",
+      "support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Hwei.png"
+  },
+  {
+    "id": "Illaoi",
+    "name": "Illaoi",
+    "sourceTags": [
+      "fighter",
+      "tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Illaoi.png"
+  },
+  {
+    "id": "Irelia",
+    "name": "Irelia",
+    "sourceTags": [
+      "fighter",
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Irelia.png"
+  },
+  {
+    "id": "Ivern",
+    "name": "Ivern",
+    "sourceTags": [
+      "support",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Ivern.png"
+  },
+  {
+    "id": "Janna",
+    "name": "Janna",
+    "sourceTags": [
+      "support",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Janna.png"
+  },
+  {
+    "id": "JarvanIV",
+    "name": "Jarvan IV",
+    "sourceTags": [
+      "fighter",
+      "tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/JarvanIV.png"
+  },
+  {
+    "id": "Jax",
+    "name": "Jax",
+    "sourceTags": [
+      "fighter"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Jax.png"
+  },
+  {
+    "id": "Jayce",
+    "name": "Jayce",
+    "sourceTags": [
+      "fighter",
+      "marksman"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Jayce.png"
+  },
+  {
+    "id": "Jhin",
+    "name": "Jhin",
+    "sourceTags": [
+      "marksman",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Jhin.png"
+  },
+  {
+    "id": "Jinx",
+    "name": "Jinx",
+    "sourceTags": [
+      "marksman"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Jinx.png"
+  },
+  {
+    "id": "Kaisa",
+    "name": "Kai'Sa",
+    "sourceTags": [
+      "marksman",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Kaisa.png"
+  },
+  {
+    "id": "Kalista",
+    "name": "Kalista",
+    "sourceTags": [
+      "marksman"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Kalista.png"
+  },
+  {
+    "id": "Karma",
+    "name": "Karma",
+    "sourceTags": [
+      "mage",
+      "support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Karma.png"
+  },
+  {
+    "id": "Karthus",
+    "name": "Karthus",
+    "sourceTags": [
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Karthus.png"
+  },
+  {
+    "id": "Kassadin",
+    "name": "Kassadin",
+    "sourceTags": [
+      "assassin",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Kassadin.png"
+  },
+  {
+    "id": "Katarina",
+    "name": "Katarina",
+    "sourceTags": [
+      "assassin",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Katarina.png"
+  },
+  {
+    "id": "Kayle",
+    "name": "Kayle",
+    "sourceTags": [
+      "marksman",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Kayle.png"
+  },
+  {
+    "id": "Kayn",
+    "name": "Kayn",
+    "sourceTags": [
+      "fighter",
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Kayn.png"
+  },
+  {
+    "id": "Kennen",
+    "name": "Kennen",
+    "sourceTags": [
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Kennen.png"
+  },
+  {
+    "id": "Khazix",
+    "name": "Kha'Zix",
+    "sourceTags": [
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Khazix.png"
+  },
+  {
+    "id": "Kindred",
+    "name": "Kindred",
+    "sourceTags": [
+      "marksman"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Kindred.png"
+  },
+  {
+    "id": "Kled",
+    "name": "Kled",
+    "sourceTags": [
+      "fighter"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Kled.png"
+  },
+  {
+    "id": "KogMaw",
+    "name": "Kog'Maw",
+    "sourceTags": [
+      "marksman",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/KogMaw.png"
+  },
+  {
+    "id": "KSante",
+    "name": "K'Sante",
+    "sourceTags": [
+      "tank",
+      "fighter"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/KSante.png"
+  },
+  {
+    "id": "Leblanc",
+    "name": "LeBlanc",
+    "sourceTags": [
+      "assassin",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Leblanc.png"
+  },
+  {
+    "id": "LeeSin",
+    "name": "Lee Sin",
+    "sourceTags": [
+      "fighter",
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/LeeSin.png"
+  },
+  {
+    "id": "Leona",
+    "name": "Leona",
+    "sourceTags": [
+      "tank",
+      "support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Leona.png"
+  },
+  {
+    "id": "Lillia",
+    "name": "Lillia",
+    "sourceTags": [
+      "fighter",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Lillia.png"
+  },
+  {
+    "id": "Lissandra",
+    "name": "Lissandra",
+    "sourceTags": [
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Lissandra.png"
+  },
+  {
+    "id": "Locke",
+    "name": "Locke",
+    "sourceTags": [
+      "assassin",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Locke.png"
+  },
+  {
+    "id": "Lucian",
+    "name": "Lucian",
+    "sourceTags": [
+      "marksman",
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Lucian.png"
+  },
+  {
+    "id": "Lulu",
+    "name": "Lulu",
+    "sourceTags": [
+      "support",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Lulu.png"
+  },
+  {
+    "id": "Lux",
+    "name": "Lux",
+    "sourceTags": [
+      "mage",
+      "support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Lux.png"
+  },
+  {
+    "id": "Malphite",
+    "name": "Malphite",
+    "sourceTags": [
+      "tank",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Malphite.png"
+  },
+  {
+    "id": "Malzahar",
+    "name": "Malzahar",
+    "sourceTags": [
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Malzahar.png"
+  },
+  {
+    "id": "Maokai",
+    "name": "Maokai",
+    "sourceTags": [
+      "tank",
+      "support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Maokai.png"
+  },
+  {
+    "id": "MasterYi",
+    "name": "Master Yi",
+    "sourceTags": [
+      "fighter",
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/MasterYi.png"
+  },
+  {
+    "id": "Mel",
+    "name": "Mel",
+    "sourceTags": [
+      "mage",
+      "support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Mel.png"
+  },
+  {
+    "id": "Milio",
+    "name": "Milio",
+    "sourceTags": [
+      "support",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Milio.png"
+  },
+  {
+    "id": "MissFortune",
+    "name": "Miss Fortune",
+    "sourceTags": [
+      "marksman",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/MissFortune.png"
+  },
+  {
+    "id": "MonkeyKing",
+    "name": "Wukong",
+    "sourceTags": [
+      "fighter",
+      "tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/MonkeyKing.png"
+  },
+  {
+    "id": "Mordekaiser",
+    "name": "Mordekaiser",
+    "sourceTags": [
+      "fighter",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Mordekaiser.png"
+  },
+  {
+    "id": "Morgana",
+    "name": "Morgana",
+    "sourceTags": [
+      "support",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Morgana.png"
+  },
+  {
+    "id": "Naafiri",
+    "name": "Naafiri",
+    "sourceTags": [
+      "assassin",
+      "fighter"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Naafiri.png"
+  },
+  {
+    "id": "Nami",
+    "name": "Nami",
+    "sourceTags": [
+      "support",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Nami.png"
+  },
+  {
+    "id": "Nasus",
+    "name": "Nasus",
+    "sourceTags": [
+      "fighter",
+      "tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Nasus.png"
+  },
+  {
+    "id": "Nautilus",
+    "name": "Nautilus",
+    "sourceTags": [
+      "tank",
+      "support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Nautilus.png"
+  },
+  {
+    "id": "Neeko",
+    "name": "Neeko",
+    "sourceTags": [
+      "mage",
+      "support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Neeko.png"
+  },
+  {
+    "id": "Nidalee",
+    "name": "Nidalee",
+    "sourceTags": [
+      "assassin",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Nidalee.png"
+  },
+  {
+    "id": "Nilah",
+    "name": "Nilah",
+    "sourceTags": [
+      "fighter",
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Nilah.png"
+  },
+  {
+    "id": "Nocturne",
+    "name": "Nocturne",
+    "sourceTags": [
+      "fighter",
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Nocturne.png"
+  },
+  {
+    "id": "Nunu",
+    "name": "Nunu & Willump",
+    "sourceTags": [
+      "tank",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Nunu.png"
+  },
+  {
+    "id": "Olaf",
+    "name": "Olaf",
+    "sourceTags": [
+      "fighter",
+      "tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Olaf.png"
+  },
+  {
+    "id": "Orianna",
+    "name": "Orianna",
+    "sourceTags": [
+      "mage",
+      "support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Orianna.png"
+  },
+  {
+    "id": "Ornn",
+    "name": "Ornn",
+    "sourceTags": [
+      "tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Ornn.png"
+  },
+  {
+    "id": "Pantheon",
+    "name": "Pantheon",
+    "sourceTags": [
+      "fighter",
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Pantheon.png"
+  },
+  {
+    "id": "Poppy",
+    "name": "Poppy",
+    "sourceTags": [
+      "tank",
+      "fighter"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Poppy.png"
+  },
+  {
+    "id": "Pyke",
+    "name": "Pyke",
+    "sourceTags": [
+      "support",
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Pyke.png"
+  },
+  {
+    "id": "Qiyana",
+    "name": "Qiyana",
+    "sourceTags": [
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Qiyana.png"
+  },
+  {
+    "id": "Quinn",
+    "name": "Quinn",
+    "sourceTags": [
+      "marksman",
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Quinn.png"
+  },
+  {
+    "id": "Rakan",
+    "name": "Rakan",
+    "sourceTags": [
+      "support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Rakan.png"
+  },
+  {
+    "id": "Rammus",
+    "name": "Rammus",
+    "sourceTags": [
+      "tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Rammus.png"
+  },
+  {
+    "id": "RekSai",
+    "name": "Rek'Sai",
+    "sourceTags": [
+      "fighter",
+      "tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/RekSai.png"
+  },
+  {
+    "id": "Rell",
+    "name": "Rell",
+    "sourceTags": [
+      "tank",
+      "support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Rell.png"
+  },
+  {
+    "id": "Renata",
+    "name": "Renata Glasc",
+    "sourceTags": [
+      "support",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Renata.png"
+  },
+  {
+    "id": "Renekton",
+    "name": "Renekton",
+    "sourceTags": [
+      "fighter",
+      "tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Renekton.png"
+  },
+  {
+    "id": "Rengar",
+    "name": "Rengar",
+    "sourceTags": [
+      "assassin",
+      "fighter"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Rengar.png"
+  },
+  {
+    "id": "Riven",
+    "name": "Riven",
+    "sourceTags": [
+      "fighter",
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Riven.png"
+  },
+  {
+    "id": "Rumble",
+    "name": "Rumble",
+    "sourceTags": [
+      "fighter",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Rumble.png"
+  },
+  {
+    "id": "Ryze",
+    "name": "Ryze",
+    "sourceTags": [
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Ryze.png"
+  },
+  {
+    "id": "Samira",
+    "name": "Samira",
+    "sourceTags": [
+      "marksman",
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Samira.png"
+  },
+  {
+    "id": "Sejuani",
+    "name": "Sejuani",
+    "sourceTags": [
+      "tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Sejuani.png"
+  },
+  {
+    "id": "Senna",
+    "name": "Senna",
+    "sourceTags": [
+      "support",
+      "marksman"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Senna.png"
+  },
+  {
+    "id": "Seraphine",
+    "name": "Seraphine",
+    "sourceTags": [
+      "support",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Seraphine.png"
+  },
+  {
+    "id": "Sett",
+    "name": "Sett",
+    "sourceTags": [
+      "fighter",
+      "tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Sett.png"
+  },
+  {
+    "id": "Shaco",
+    "name": "Shaco",
+    "sourceTags": [
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Shaco.png"
+  },
+  {
+    "id": "Shen",
+    "name": "Shen",
+    "sourceTags": [
+      "tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Shen.png"
+  },
+  {
+    "id": "Shyvana",
+    "name": "Shyvana",
+    "sourceTags": [
+      "fighter",
+      "tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Shyvana.png"
+  },
+  {
+    "id": "Singed",
+    "name": "Singed",
+    "sourceTags": [
+      "tank",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Singed.png"
+  },
+  {
+    "id": "Sion",
+    "name": "Sion",
+    "sourceTags": [
+      "tank",
+      "fighter"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Sion.png"
+  },
+  {
+    "id": "Sivir",
+    "name": "Sivir",
+    "sourceTags": [
+      "marksman"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Sivir.png"
+  },
+  {
+    "id": "Skarner",
+    "name": "Skarner",
+    "sourceTags": [
+      "tank",
+      "fighter"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Skarner.png"
+  },
+  {
+    "id": "Smolder",
+    "name": "Smolder",
+    "sourceTags": [
+      "marksman",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Smolder.png"
+  },
+  {
+    "id": "Sona",
+    "name": "Sona",
+    "sourceTags": [
+      "support",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Sona.png"
+  },
+  {
+    "id": "Soraka",
+    "name": "Soraka",
+    "sourceTags": [
+      "support",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Soraka.png"
+  },
+  {
+    "id": "Swain",
+    "name": "Swain",
+    "sourceTags": [
+      "mage",
+      "support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Swain.png"
+  },
+  {
+    "id": "Sylas",
+    "name": "Sylas",
+    "sourceTags": [
+      "mage",
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Sylas.png"
+  },
+  {
+    "id": "Syndra",
+    "name": "Syndra",
+    "sourceTags": [
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Syndra.png"
+  },
+  {
+    "id": "TahmKench",
+    "name": "Tahm Kench",
+    "sourceTags": [
+      "tank",
+      "support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/TahmKench.png"
+  },
+  {
+    "id": "Taliyah",
+    "name": "Taliyah",
+    "sourceTags": [
+      "mage",
+      "support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Taliyah.png"
+  },
+  {
+    "id": "Talon",
+    "name": "Talon",
+    "sourceTags": [
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Talon.png"
+  },
+  {
+    "id": "Taric",
+    "name": "Taric",
+    "sourceTags": [
+      "support",
+      "tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Taric.png"
+  },
+  {
+    "id": "Teemo",
+    "name": "Teemo",
+    "sourceTags": [
+      "marksman",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Teemo.png"
+  },
+  {
+    "id": "Thresh",
+    "name": "Thresh",
+    "sourceTags": [
+      "support",
+      "tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Thresh.png"
+  },
+  {
+    "id": "Tristana",
+    "name": "Tristana",
+    "sourceTags": [
+      "marksman",
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Tristana.png"
+  },
+  {
+    "id": "Trundle",
+    "name": "Trundle",
+    "sourceTags": [
+      "fighter",
+      "tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Trundle.png"
+  },
+  {
+    "id": "Tryndamere",
+    "name": "Tryndamere",
+    "sourceTags": [
+      "fighter",
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Tryndamere.png"
+  },
+  {
+    "id": "TwistedFate",
+    "name": "Twisted Fate",
+    "sourceTags": [
+      "mage",
+      "marksman"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/TwistedFate.png"
+  },
+  {
+    "id": "Twitch",
+    "name": "Twitch",
+    "sourceTags": [
+      "marksman",
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Twitch.png"
+  },
+  {
+    "id": "Udyr",
+    "name": "Udyr",
+    "sourceTags": [
+      "fighter",
+      "tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Udyr.png"
+  },
+  {
+    "id": "Urgot",
+    "name": "Urgot",
+    "sourceTags": [
+      "fighter",
+      "tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Urgot.png"
+  },
+  {
+    "id": "Varus",
+    "name": "Varus",
+    "sourceTags": [
+      "marksman",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Varus.png"
+  },
+  {
+    "id": "Vayne",
+    "name": "Vayne",
+    "sourceTags": [
+      "marksman",
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Vayne.png"
+  },
+  {
+    "id": "Veigar",
+    "name": "Veigar",
+    "sourceTags": [
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Veigar.png"
+  },
+  {
+    "id": "Velkoz",
+    "name": "Vel'Koz",
+    "sourceTags": [
+      "mage",
+      "support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Velkoz.png"
+  },
+  {
+    "id": "Vex",
+    "name": "Vex",
+    "sourceTags": [
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Vex.png"
+  },
+  {
+    "id": "Vi",
+    "name": "Vi",
+    "sourceTags": [
+      "fighter",
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Vi.png"
+  },
+  {
+    "id": "Viego",
+    "name": "Viego",
+    "sourceTags": [
+      "fighter",
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Viego.png"
+  },
+  {
+    "id": "Viktor",
+    "name": "Viktor",
+    "sourceTags": [
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Viktor.png"
+  },
+  {
+    "id": "Vladimir",
+    "name": "Vladimir",
+    "sourceTags": [
+      "mage",
+      "fighter"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Vladimir.png"
+  },
+  {
+    "id": "Volibear",
+    "name": "Volibear",
+    "sourceTags": [
+      "fighter",
+      "tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Volibear.png"
+  },
+  {
+    "id": "Warwick",
+    "name": "Warwick",
+    "sourceTags": [
+      "fighter",
+      "tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Warwick.png"
+  },
+  {
+    "id": "Xayah",
+    "name": "Xayah",
+    "sourceTags": [
+      "marksman"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Xayah.png"
+  },
+  {
+    "id": "Xerath",
+    "name": "Xerath",
+    "sourceTags": [
+      "mage",
+      "support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Xerath.png"
+  },
+  {
+    "id": "XinZhao",
+    "name": "Xin Zhao",
+    "sourceTags": [
+      "fighter",
+      "tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/XinZhao.png"
+  },
+  {
+    "id": "Yasuo",
+    "name": "Yasuo",
+    "sourceTags": [
+      "fighter",
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Yasuo.png"
+  },
+  {
+    "id": "Yone",
+    "name": "Yone",
+    "sourceTags": [
+      "fighter",
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Yone.png"
+  },
+  {
+    "id": "Yorick",
+    "name": "Yorick",
+    "sourceTags": [
+      "fighter",
+      "tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Yorick.png"
+  },
+  {
+    "id": "Yunara",
+    "name": "Yunara",
+    "sourceTags": [
+      "marksman"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Yunara.png"
+  },
+  {
+    "id": "Yuumi",
+    "name": "Yuumi",
+    "sourceTags": [
+      "support",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Yuumi.png"
+  },
+  {
+    "id": "Zaahen",
+    "name": "Zaahen",
+    "sourceTags": [
+      "fighter"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Zaahen.png"
+  },
+  {
+    "id": "Zac",
+    "name": "Zac",
+    "sourceTags": [
+      "tank",
+      "fighter"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Zac.png"
+  },
+  {
+    "id": "Zed",
+    "name": "Zed",
+    "sourceTags": [
+      "assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Zed.png"
+  },
+  {
+    "id": "Zeri",
+    "name": "Zeri",
+    "sourceTags": [
+      "marksman"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Zeri.png"
+  },
+  {
+    "id": "Ziggs",
+    "name": "Ziggs",
+    "sourceTags": [
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Ziggs.png"
+  },
+  {
+    "id": "Zilean",
+    "name": "Zilean",
+    "sourceTags": [
+      "support",
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Zilean.png"
+  },
+  {
+    "id": "Zoe",
+    "name": "Zoe",
+    "sourceTags": [
+      "mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Zoe.png"
+  },
+  {
+    "id": "Zyra",
+    "name": "Zyra",
+    "sourceTags": [
+      "mage",
+      "support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Zyra.png"
+  }
+]

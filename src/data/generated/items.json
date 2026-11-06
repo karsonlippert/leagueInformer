@@ -1,0 +1,3293 @@
+[
+  {
+    "id": "1001",
+    "name": "Boots",
+    "sourceTags": [
+      "Boots"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1001.png"
+  },
+  {
+    "id": "1004",
+    "name": "Faerie Charm",
+    "sourceTags": [
+      "ManaRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1004.png"
+  },
+  {
+    "id": "1006",
+    "name": "Rejuvenation Bead",
+    "sourceTags": [
+      "HealthRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1006.png"
+  },
+  {
+    "id": "1011",
+    "name": "Giant's Belt",
+    "sourceTags": [
+      "Health"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1011.png"
+  },
+  {
+    "id": "1018",
+    "name": "Cloak of Agility",
+    "sourceTags": [
+      "CriticalStrike"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1018.png"
+  },
+  {
+    "id": "1026",
+    "name": "Blasting Wand",
+    "sourceTags": [
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1026.png"
+  },
+  {
+    "id": "1027",
+    "name": "Sapphire Crystal",
+    "sourceTags": [
+      "Mana"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1027.png"
+  },
+  {
+    "id": "1028",
+    "name": "Ruby Crystal",
+    "sourceTags": [
+      "Health"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1028.png"
+  },
+  {
+    "id": "1029",
+    "name": "Cloth Armor",
+    "sourceTags": [
+      "Armor"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1029.png"
+  },
+  {
+    "id": "1031",
+    "name": "Chain Vest",
+    "sourceTags": [
+      "Armor"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1031.png"
+  },
+  {
+    "id": "1033",
+    "name": "Null-Magic Mantle",
+    "sourceTags": [
+      "SpellBlock"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1033.png"
+  },
+  {
+    "id": "1036",
+    "name": "Long Sword",
+    "sourceTags": [
+      "Damage",
+      "Lane"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1036.png"
+  },
+  {
+    "id": "1037",
+    "name": "Pickaxe",
+    "sourceTags": [
+      "Damage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1037.png"
+  },
+  {
+    "id": "1038",
+    "name": "B. F. Sword",
+    "sourceTags": [
+      "Damage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1038.png"
+  },
+  {
+    "id": "1042",
+    "name": "Dagger",
+    "sourceTags": [
+      "AttackSpeed"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1042.png"
+  },
+  {
+    "id": "1043",
+    "name": "Recurve Bow",
+    "sourceTags": [
+      "AttackSpeed",
+      "OnHit"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1043.png"
+  },
+  {
+    "id": "1052",
+    "name": "Amplifying Tome",
+    "sourceTags": [
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1052.png"
+  },
+  {
+    "id": "1053",
+    "name": "Vampiric Scepter",
+    "sourceTags": [
+      "Damage",
+      "LifeSteal"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1053.png"
+  },
+  {
+    "id": "1054",
+    "name": "Doran's Shield",
+    "sourceTags": [
+      "Health",
+      "HealthRegen",
+      "Lane"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1054.png"
+  },
+  {
+    "id": "1055",
+    "name": "Doran's Blade",
+    "sourceTags": [
+      "Health",
+      "Damage",
+      "LifeSteal",
+      "SpellVamp",
+      "Lane"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1055.png"
+  },
+  {
+    "id": "1056",
+    "name": "Doran's Ring",
+    "sourceTags": [
+      "Health",
+      "Lane",
+      "ManaRegen",
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1056.png"
+  },
+  {
+    "id": "1057",
+    "name": "Negatron Cloak",
+    "sourceTags": [
+      "SpellBlock"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1057.png"
+  },
+  {
+    "id": "1058",
+    "name": "Needlessly Large Rod",
+    "sourceTags": [
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1058.png"
+  },
+  {
+    "id": "1086",
+    "name": "Doran's Bow",
+    "sourceTags": [
+      "Damage",
+      "AttackSpeed",
+      "SpellVamp",
+      "Lane"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1086.png"
+  },
+  {
+    "id": "1120",
+    "name": "Doran's Helm",
+    "sourceTags": [
+      "Health",
+      "SpellBlock",
+      "Armor",
+      "Lane"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1120.png"
+  },
+  {
+    "id": "2019",
+    "name": "Steel Sigil",
+    "sourceTags": [
+      "Armor",
+      "Damage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2019.png"
+  },
+  {
+    "id": "2020",
+    "name": "The Brutalizer",
+    "sourceTags": [
+      "Damage",
+      "CooldownReduction",
+      "ArmorPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2020.png"
+  },
+  {
+    "id": "2021",
+    "name": "Tunneler",
+    "sourceTags": [
+      "Health",
+      "Damage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2021.png"
+  },
+  {
+    "id": "2022",
+    "name": "Glowing Mote",
+    "sourceTags": [
+      "CooldownReduction"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2022.png"
+  },
+  {
+    "id": "2031",
+    "name": "Refillable Potion",
+    "sourceTags": [
+      "HealthRegen",
+      "Consumable",
+      "Active",
+      "Lane",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2031.png"
+  },
+  {
+    "id": "2051",
+    "name": "Guardian's Horn",
+    "sourceTags": [
+      "Health",
+      "HealthRegen",
+      "Lane"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2051.png"
+  },
+  {
+    "id": "2065",
+    "name": "Shurelya's Battlesong",
+    "sourceTags": [
+      "SpellDamage",
+      "ManaRegen",
+      "Active",
+      "CooldownReduction",
+      "NonbootsMovement",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2065.png"
+  },
+  {
+    "id": "2420",
+    "name": "Seeker's Armguard",
+    "sourceTags": [
+      "Armor",
+      "SpellDamage",
+      "Active"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2420.png"
+  },
+  {
+    "id": "2421",
+    "name": "Shattered Armguard",
+    "sourceTags": [],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2421.png"
+  },
+  {
+    "id": "2501",
+    "name": "Overlord's Bloodmail",
+    "sourceTags": [
+      "Health",
+      "Damage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2501.png"
+  },
+  {
+    "id": "2502",
+    "name": "Unending Despair",
+    "sourceTags": [
+      "Health",
+      "Armor",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2502.png"
+  },
+  {
+    "id": "2503",
+    "name": "Blackfire Torch",
+    "sourceTags": [
+      "SpellDamage",
+      "Mana",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2503.png"
+  },
+  {
+    "id": "2504",
+    "name": "Kaenic Rookern",
+    "sourceTags": [
+      "Health",
+      "SpellBlock",
+      "HealthRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2504.png"
+  },
+  {
+    "id": "2508",
+    "name": "Fated Ashes",
+    "sourceTags": [
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2508.png"
+  },
+  {
+    "id": "2510",
+    "name": "Dusk and Dawn",
+    "sourceTags": [
+      "Health",
+      "AttackSpeed",
+      "SpellDamage",
+      "OnHit",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2510.png"
+  },
+  {
+    "id": "2512",
+    "name": "Fiendhunter Bolts",
+    "sourceTags": [
+      "CriticalStrike",
+      "AttackSpeed",
+      "NonbootsMovement",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2512.png"
+  },
+  {
+    "id": "2517",
+    "name": "Endless Hunger",
+    "sourceTags": [
+      "Damage",
+      "LifeSteal",
+      "SpellVamp",
+      "Tenacity",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2517.png"
+  },
+  {
+    "id": "2522",
+    "name": "Actualizer",
+    "sourceTags": [
+      "SpellDamage",
+      "Mana",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2522.png"
+  },
+  {
+    "id": "2523",
+    "name": "Hexoptics C44",
+    "sourceTags": [
+      "Damage",
+      "CriticalStrike"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2523.png"
+  },
+  {
+    "id": "2524",
+    "name": "Bandlepipes",
+    "sourceTags": [
+      "Health",
+      "SpellBlock",
+      "Armor",
+      "AttackSpeed",
+      "NonbootsMovement",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2524.png"
+  },
+  {
+    "id": "2525",
+    "name": "Protoplasm Harness",
+    "sourceTags": [
+      "Health",
+      "NonbootsMovement",
+      "Tenacity",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2525.png"
+  },
+  {
+    "id": "2526",
+    "name": "Whispering Circlet",
+    "sourceTags": [
+      "Health",
+      "Mana",
+      "ManaRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2526.png"
+  },
+  {
+    "id": "3003",
+    "name": "Archangel's Staff",
+    "sourceTags": [
+      "SpellDamage",
+      "Mana",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3003.png"
+  },
+  {
+    "id": "3004",
+    "name": "Manamune",
+    "sourceTags": [
+      "Damage",
+      "Mana",
+      "CooldownReduction",
+      "OnHit",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3004.png"
+  },
+  {
+    "id": "3006",
+    "name": "Berserker's Greaves",
+    "sourceTags": [
+      "AttackSpeed",
+      "Boots"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3006.png"
+  },
+  {
+    "id": "3008",
+    "name": "Gluttonous Greaves",
+    "sourceTags": [
+      "LifeSteal",
+      "SpellVamp",
+      "Boots"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3008.png"
+  },
+  {
+    "id": "3009",
+    "name": "Boots of Swiftness",
+    "sourceTags": [
+      "Boots"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3009.png"
+  },
+  {
+    "id": "3020",
+    "name": "Sorcerer's Shoes",
+    "sourceTags": [
+      "Boots",
+      "MagicPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3020.png"
+  },
+  {
+    "id": "3024",
+    "name": "Glacial Buckler",
+    "sourceTags": [
+      "Armor",
+      "Mana",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3024.png"
+  },
+  {
+    "id": "3031",
+    "name": "Infinity Edge",
+    "sourceTags": [
+      "CriticalStrike",
+      "Damage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3031.png"
+  },
+  {
+    "id": "3032",
+    "name": "Yun Tal Wildarrows",
+    "sourceTags": [
+      "Damage",
+      "CriticalStrike",
+      "AttackSpeed"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3032.png"
+  },
+  {
+    "id": "3033",
+    "name": "Mortal Reminder",
+    "sourceTags": [
+      "Damage",
+      "CriticalStrike",
+      "ArmorPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3033.png"
+  },
+  {
+    "id": "3035",
+    "name": "Last Whisper",
+    "sourceTags": [
+      "ArmorPenetration",
+      "Damage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3035.png"
+  },
+  {
+    "id": "3036",
+    "name": "Lord Dominik's Regards",
+    "sourceTags": [
+      "Damage",
+      "CriticalStrike",
+      "ArmorPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3036.png"
+  },
+  {
+    "id": "3039",
+    "name": "Atma's Reckoning",
+    "sourceTags": [
+      "Health",
+      "CriticalStrike"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3039.png"
+  },
+  {
+    "id": "3044",
+    "name": "Phage",
+    "sourceTags": [
+      "Health",
+      "Damage",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3044.png"
+  },
+  {
+    "id": "3046",
+    "name": "Phantom Dancer",
+    "sourceTags": [
+      "CriticalStrike",
+      "AttackSpeed",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3046.png"
+  },
+  {
+    "id": "3047",
+    "name": "Plated Steelcaps",
+    "sourceTags": [
+      "Armor",
+      "Boots"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3047.png"
+  },
+  {
+    "id": "3050",
+    "name": "Zeke's Convergence",
+    "sourceTags": [
+      "Health",
+      "SpellBlock",
+      "Armor",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3050.png"
+  },
+  {
+    "id": "3051",
+    "name": "Hearthbound Axe",
+    "sourceTags": [
+      "Damage",
+      "AttackSpeed"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3051.png"
+  },
+  {
+    "id": "3053",
+    "name": "Sterak's Gage",
+    "sourceTags": [
+      "Health",
+      "Damage",
+      "Tenacity"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3053.png"
+  },
+  {
+    "id": "3057",
+    "name": "Sheen",
+    "sourceTags": [
+      "OnHit",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3057.png"
+  },
+  {
+    "id": "3065",
+    "name": "Spirit Visage",
+    "sourceTags": [
+      "Health",
+      "SpellBlock",
+      "HealthRegen",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3065.png"
+  },
+  {
+    "id": "3066",
+    "name": "Winged Moonplate",
+    "sourceTags": [
+      "Health",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3066.png"
+  },
+  {
+    "id": "3067",
+    "name": "Kindlegem",
+    "sourceTags": [
+      "Health",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3067.png"
+  },
+  {
+    "id": "3068",
+    "name": "Sunfire Aegis",
+    "sourceTags": [
+      "Health",
+      "Armor",
+      "Aura",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3068.png"
+  },
+  {
+    "id": "3070",
+    "name": "Tear of the Goddess",
+    "sourceTags": [
+      "Mana",
+      "ManaRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3070.png"
+  },
+  {
+    "id": "3071",
+    "name": "Black Cleaver",
+    "sourceTags": [
+      "Health",
+      "Damage",
+      "CooldownReduction",
+      "OnHit",
+      "NonbootsMovement",
+      "ArmorPenetration",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3071.png"
+  },
+  {
+    "id": "3072",
+    "name": "Bloodthirster",
+    "sourceTags": [
+      "Damage",
+      "LifeSteal"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3072.png"
+  },
+  {
+    "id": "3073",
+    "name": "Experimental Hexplate",
+    "sourceTags": [
+      "Health",
+      "Damage",
+      "AttackSpeed",
+      "CooldownReduction",
+      "NonbootsMovement",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3073.png"
+  },
+  {
+    "id": "3074",
+    "name": "Ravenous Hydra",
+    "sourceTags": [
+      "Damage",
+      "LifeSteal",
+      "CooldownReduction",
+      "OnHit",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3074.png"
+  },
+  {
+    "id": "3075",
+    "name": "Thornmail",
+    "sourceTags": [
+      "Health",
+      "Armor"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3075.png"
+  },
+  {
+    "id": "3076",
+    "name": "Bramble Vest",
+    "sourceTags": [
+      "Armor"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3076.png"
+  },
+  {
+    "id": "3077",
+    "name": "Tiamat",
+    "sourceTags": [
+      "Damage",
+      "OnHit"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3077.png"
+  },
+  {
+    "id": "3078",
+    "name": "Trinity Force",
+    "sourceTags": [
+      "Health",
+      "Damage",
+      "AttackSpeed",
+      "CooldownReduction",
+      "OnHit",
+      "NonbootsMovement",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3078.png"
+  },
+  {
+    "id": "3082",
+    "name": "Warden's Mail",
+    "sourceTags": [
+      "Armor"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3082.png"
+  },
+  {
+    "id": "3083",
+    "name": "Warmog's Armor",
+    "sourceTags": [
+      "Health",
+      "HealthRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3083.png"
+  },
+  {
+    "id": "3084",
+    "name": "Heartsteel",
+    "sourceTags": [
+      "Health",
+      "HealthRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3084.png"
+  },
+  {
+    "id": "3085",
+    "name": "Runaan's Hurricane",
+    "sourceTags": [
+      "CriticalStrike",
+      "AttackSpeed",
+      "OnHit",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3085.png"
+  },
+  {
+    "id": "3086",
+    "name": "Zeal",
+    "sourceTags": [
+      "CriticalStrike",
+      "AttackSpeed",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3086.png"
+  },
+  {
+    "id": "3087",
+    "name": "Statikk Shiv",
+    "sourceTags": [
+      "Damage",
+      "AttackSpeed",
+      "SpellDamage",
+      "OnHit",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3087.png"
+  },
+  {
+    "id": "3089",
+    "name": "Rabadon's Deathcap",
+    "sourceTags": [
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3089.png"
+  },
+  {
+    "id": "3091",
+    "name": "Wit's End",
+    "sourceTags": [
+      "SpellBlock",
+      "AttackSpeed",
+      "OnHit",
+      "Tenacity"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3091.png"
+  },
+  {
+    "id": "3094",
+    "name": "Rapid Firecannon",
+    "sourceTags": [
+      "CriticalStrike",
+      "AttackSpeed",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3094.png"
+  },
+  {
+    "id": "3095",
+    "name": "Stormrazor",
+    "sourceTags": [
+      "Damage",
+      "CriticalStrike",
+      "AttackSpeed",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3095.png"
+  },
+  {
+    "id": "3100",
+    "name": "Lich Bane",
+    "sourceTags": [
+      "SpellDamage",
+      "OnHit",
+      "NonbootsMovement",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3100.png"
+  },
+  {
+    "id": "3102",
+    "name": "Banshee's Veil",
+    "sourceTags": [
+      "SpellBlock",
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3102.png"
+  },
+  {
+    "id": "3107",
+    "name": "Redemption",
+    "sourceTags": [
+      "SpellDamage",
+      "ManaRegen",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3107.png"
+  },
+  {
+    "id": "3108",
+    "name": "Fiendish Codex",
+    "sourceTags": [
+      "SpellDamage",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3108.png"
+  },
+  {
+    "id": "3109",
+    "name": "Knight's Vow",
+    "sourceTags": [
+      "Health",
+      "HealthRegen",
+      "Armor",
+      "Aura",
+      "Active",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3109.png"
+  },
+  {
+    "id": "3110",
+    "name": "Frozen Heart",
+    "sourceTags": [
+      "Armor",
+      "Mana",
+      "Aura",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3110.png"
+  },
+  {
+    "id": "3111",
+    "name": "Mercury's Treads",
+    "sourceTags": [
+      "Boots",
+      "SpellBlock",
+      "Tenacity"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3111.png"
+  },
+  {
+    "id": "3112",
+    "name": "Guardian's Orb",
+    "sourceTags": [
+      "Health",
+      "SpellDamage",
+      "ManaRegen",
+      "Lane"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3112.png"
+  },
+  {
+    "id": "3113",
+    "name": "Aether Wisp",
+    "sourceTags": [
+      "NonbootsMovement",
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3113.png"
+  },
+  {
+    "id": "3114",
+    "name": "Forbidden Idol",
+    "sourceTags": [
+      "ManaRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3114.png"
+  },
+  {
+    "id": "3115",
+    "name": "Nashor's Tooth",
+    "sourceTags": [
+      "AttackSpeed",
+      "SpellDamage",
+      "OnHit",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3115.png"
+  },
+  {
+    "id": "3116",
+    "name": "Rylai's Crystal Scepter",
+    "sourceTags": [
+      "Health",
+      "SpellDamage",
+      "Slow"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3116.png"
+  },
+  {
+    "id": "3118",
+    "name": "Malignance",
+    "sourceTags": [
+      "SpellDamage",
+      "Mana",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3118.png"
+  },
+  {
+    "id": "3119",
+    "name": "Winter's Approach",
+    "sourceTags": [
+      "Health",
+      "Mana",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3119.png"
+  },
+  {
+    "id": "3123",
+    "name": "Executioner's Calling",
+    "sourceTags": [
+      "Damage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3123.png"
+  },
+  {
+    "id": "3124",
+    "name": "Guinsoo's Rageblade",
+    "sourceTags": [
+      "Damage",
+      "AttackSpeed",
+      "SpellDamage",
+      "OnHit"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3124.png"
+  },
+  {
+    "id": "3133",
+    "name": "Caulfield's Warhammer",
+    "sourceTags": [
+      "Damage",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3133.png"
+  },
+  {
+    "id": "3134",
+    "name": "Serrated Dirk",
+    "sourceTags": [
+      "Damage",
+      "ArmorPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3134.png"
+  },
+  {
+    "id": "3135",
+    "name": "Void Staff",
+    "sourceTags": [
+      "MagicPenetration",
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3135.png"
+  },
+  {
+    "id": "3137",
+    "name": "Cryptbloom",
+    "sourceTags": [
+      "SpellDamage",
+      "MagicPenetration",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3137.png"
+  },
+  {
+    "id": "3139",
+    "name": "Mercurial Scimitar",
+    "sourceTags": [
+      "SpellBlock",
+      "Damage",
+      "LifeSteal",
+      "Active",
+      "NonbootsMovement",
+      "Tenacity"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3139.png"
+  },
+  {
+    "id": "3140",
+    "name": "Quicksilver Sash",
+    "sourceTags": [
+      "Active",
+      "SpellBlock"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3140.png"
+  },
+  {
+    "id": "3142",
+    "name": "Youmuu's Ghostblade",
+    "sourceTags": [
+      "Damage",
+      "Active",
+      "NonbootsMovement",
+      "ArmorPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3142.png"
+  },
+  {
+    "id": "3143",
+    "name": "Randuin's Omen",
+    "sourceTags": [
+      "Health",
+      "Armor",
+      "Active",
+      "Slow"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3143.png"
+  },
+  {
+    "id": "3144",
+    "name": "Scout's Slingshot",
+    "sourceTags": [
+      "AttackSpeed"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3144.png"
+  },
+  {
+    "id": "3145",
+    "name": "Hextech Alternator",
+    "sourceTags": [
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3145.png"
+  },
+  {
+    "id": "3146",
+    "name": "Hextech Gunblade",
+    "sourceTags": [
+      "Damage",
+      "LifeSteal",
+      "SpellDamage",
+      "Active",
+      "SpellVamp"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3146.png"
+  },
+  {
+    "id": "3147",
+    "name": "Haunting Guise",
+    "sourceTags": [
+      "Health",
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3147.png"
+  },
+  {
+    "id": "3152",
+    "name": "Hextech Rocketbelt",
+    "sourceTags": [
+      "Health",
+      "SpellDamage",
+      "Active",
+      "CooldownReduction",
+      "NonbootsMovement",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3152.png"
+  },
+  {
+    "id": "3153",
+    "name": "Blade of The Ruined King",
+    "sourceTags": [
+      "Damage",
+      "AttackSpeed",
+      "LifeSteal",
+      "Slow",
+      "OnHit"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3153.png"
+  },
+  {
+    "id": "3155",
+    "name": "Hexdrinker",
+    "sourceTags": [
+      "Damage",
+      "SpellBlock"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3155.png"
+  },
+  {
+    "id": "3156",
+    "name": "Maw of Malmortius",
+    "sourceTags": [
+      "SpellBlock",
+      "Damage",
+      "LifeSteal",
+      "SpellVamp",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3156.png"
+  },
+  {
+    "id": "3157",
+    "name": "Zhonya's Hourglass",
+    "sourceTags": [
+      "Armor",
+      "SpellDamage",
+      "Active"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3157.png"
+  },
+  {
+    "id": "3158",
+    "name": "Ionian Boots of Lucidity",
+    "sourceTags": [
+      "Boots",
+      "CooldownReduction"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3158.png"
+  },
+  {
+    "id": "3161",
+    "name": "Spear of Shojin",
+    "sourceTags": [
+      "Health",
+      "Damage",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3161.png"
+  },
+  {
+    "id": "3165",
+    "name": "Morellonomicon",
+    "sourceTags": [
+      "Health",
+      "SpellDamage",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3165.png"
+  },
+  {
+    "id": "3177",
+    "name": "Guardian's Blade",
+    "sourceTags": [
+      "Health",
+      "Damage",
+      "Lane",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3177.png"
+  },
+  {
+    "id": "3179",
+    "name": "Umbral Glaive",
+    "sourceTags": [
+      "Damage",
+      "Vision",
+      "CooldownReduction",
+      "ArmorPenetration",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3179.png"
+  },
+  {
+    "id": "3181",
+    "name": "Hullbreaker",
+    "sourceTags": [
+      "Health",
+      "Damage",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3181.png"
+  },
+  {
+    "id": "3184",
+    "name": "Guardian's Hammer",
+    "sourceTags": [
+      "Health",
+      "Damage",
+      "LifeSteal",
+      "Lane"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3184.png"
+  },
+  {
+    "id": "3190",
+    "name": "Locket of the Iron Solari",
+    "sourceTags": [
+      "Health",
+      "SpellBlock",
+      "Armor",
+      "Aura",
+      "Active",
+      "MagicResist",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3190.png"
+  },
+  {
+    "id": "3211",
+    "name": "Spectre's Cowl",
+    "sourceTags": [
+      "Health",
+      "HealthRegen",
+      "SpellBlock"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3211.png"
+  },
+  {
+    "id": "3222",
+    "name": "Mikael's Blessing",
+    "sourceTags": [
+      "Health",
+      "ManaRegen",
+      "Active",
+      "CooldownReduction",
+      "Tenacity",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3222.png"
+  },
+  {
+    "id": "3302",
+    "name": "Terminus",
+    "sourceTags": [
+      "Damage",
+      "AttackSpeed",
+      "OnHit",
+      "MagicPenetration",
+      "ArmorPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3302.png"
+  },
+  {
+    "id": "3504",
+    "name": "Ardent Censer",
+    "sourceTags": [
+      "AttackSpeed",
+      "SpellDamage",
+      "ManaRegen",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3504.png"
+  },
+  {
+    "id": "3508",
+    "name": "Essence Reaver",
+    "sourceTags": [
+      "Damage",
+      "CriticalStrike",
+      "ManaRegen",
+      "CooldownReduction",
+      "OnHit",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3508.png"
+  },
+  {
+    "id": "3742",
+    "name": "Dead Man's Plate",
+    "sourceTags": [
+      "Health",
+      "Armor",
+      "Slow",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3742.png"
+  },
+  {
+    "id": "3748",
+    "name": "Titanic Hydra",
+    "sourceTags": [
+      "Health",
+      "HealthRegen",
+      "Damage",
+      "OnHit"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3748.png"
+  },
+  {
+    "id": "3801",
+    "name": "Crystalline Bracer",
+    "sourceTags": [
+      "Health",
+      "HealthRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3801.png"
+  },
+  {
+    "id": "3802",
+    "name": "Lost Chapter",
+    "sourceTags": [
+      "SpellDamage",
+      "Mana",
+      "ManaRegen",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3802.png"
+  },
+  {
+    "id": "3803",
+    "name": "Catalyst of Aeons",
+    "sourceTags": [
+      "Health",
+      "HealthRegen",
+      "Mana",
+      "ManaRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3803.png"
+  },
+  {
+    "id": "3814",
+    "name": "Edge of Night",
+    "sourceTags": [
+      "Health",
+      "Damage",
+      "ArmorPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3814.png"
+  },
+  {
+    "id": "3916",
+    "name": "Oblivion Orb",
+    "sourceTags": [
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3916.png"
+  },
+  {
+    "id": "4003",
+    "name": "Lifeline",
+    "sourceTags": [
+      "Damage",
+      "NonbootsMovement",
+      "ArmorPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4003.png"
+  },
+  {
+    "id": "4004",
+    "name": "Spectral Cutlass",
+    "sourceTags": [
+      "Damage",
+      "NonbootsMovement",
+      "ArmorPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4004.png"
+  },
+  {
+    "id": "4005",
+    "name": "Imperial Mandate",
+    "sourceTags": [
+      "SpellDamage",
+      "ManaRegen",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4005.png"
+  },
+  {
+    "id": "4401",
+    "name": "Force of Nature",
+    "sourceTags": [
+      "Health",
+      "SpellBlock",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4401.png"
+  },
+  {
+    "id": "4628",
+    "name": "Horizon Focus",
+    "sourceTags": [
+      "SpellDamage",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4628.png"
+  },
+  {
+    "id": "4629",
+    "name": "Cosmic Drive",
+    "sourceTags": [
+      "Health",
+      "SpellDamage",
+      "NonbootsMovement",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4629.png"
+  },
+  {
+    "id": "4630",
+    "name": "Blighting Jewel",
+    "sourceTags": [
+      "MagicPenetration",
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4630.png"
+  },
+  {
+    "id": "4632",
+    "name": "Verdant Barrier",
+    "sourceTags": [
+      "SpellBlock",
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4632.png"
+  },
+  {
+    "id": "4633",
+    "name": "Riftmaker",
+    "sourceTags": [
+      "Health",
+      "SpellDamage",
+      "CooldownReduction",
+      "SpellVamp"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4633.png"
+  },
+  {
+    "id": "4642",
+    "name": "Bandleglass Mirror",
+    "sourceTags": [
+      "SpellDamage",
+      "ManaRegen",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4642.png"
+  },
+  {
+    "id": "4645",
+    "name": "Shadowflame",
+    "sourceTags": [
+      "SpellDamage",
+      "MagicPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4645.png"
+  },
+  {
+    "id": "4646",
+    "name": "Stormsurge",
+    "sourceTags": [
+      "SpellDamage",
+      "GoldPer",
+      "NonbootsMovement",
+      "MagicPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4646.png"
+  },
+  {
+    "id": "6333",
+    "name": "Death's Dance",
+    "sourceTags": [
+      "Armor",
+      "Damage",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6333.png"
+  },
+  {
+    "id": "6609",
+    "name": "Chempunk Chainsword",
+    "sourceTags": [
+      "Health",
+      "Damage",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6609.png"
+  },
+  {
+    "id": "6610",
+    "name": "Sundered Sky",
+    "sourceTags": [
+      "Health",
+      "Damage",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6610.png"
+  },
+  {
+    "id": "6616",
+    "name": "Staff of Flowing Water",
+    "sourceTags": [
+      "SpellDamage",
+      "ManaRegen",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6616.png"
+  },
+  {
+    "id": "6617",
+    "name": "Moonstone Renewer",
+    "sourceTags": [
+      "Health",
+      "SpellDamage",
+      "ManaRegen",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6617.png"
+  },
+  {
+    "id": "6620",
+    "name": "Echoes of Helia",
+    "sourceTags": [
+      "Health",
+      "SpellDamage",
+      "ManaRegen",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6620.png"
+  },
+  {
+    "id": "6621",
+    "name": "Dawncore",
+    "sourceTags": [
+      "SpellDamage",
+      "ManaRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6621.png"
+  },
+  {
+    "id": "6631",
+    "name": "Stridebreaker",
+    "sourceTags": [
+      "Health",
+      "Damage",
+      "AttackSpeed",
+      "Slow"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6631.png"
+  },
+  {
+    "id": "6653",
+    "name": "Liandry's Torment",
+    "sourceTags": [
+      "Health",
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6653.png"
+  },
+  {
+    "id": "6655",
+    "name": "Luden's Echo",
+    "sourceTags": [
+      "SpellDamage",
+      "Mana",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6655.png"
+  },
+  {
+    "id": "6657",
+    "name": "Rod of Ages",
+    "sourceTags": [
+      "Health",
+      "HealthRegen",
+      "SpellDamage",
+      "Mana",
+      "ManaRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6657.png"
+  },
+  {
+    "id": "6660",
+    "name": "Bami's Cinder",
+    "sourceTags": [
+      "Health",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6660.png"
+  },
+  {
+    "id": "6662",
+    "name": "Iceborn Gauntlet",
+    "sourceTags": [
+      "Health",
+      "Armor",
+      "CooldownReduction",
+      "Slow",
+      "OnHit",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6662.png"
+  },
+  {
+    "id": "6664",
+    "name": "Hollow Radiance",
+    "sourceTags": [
+      "Health",
+      "SpellBlock",
+      "HealthRegen",
+      "Aura",
+      "MagicResist",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6664.png"
+  },
+  {
+    "id": "6665",
+    "name": "Jak'Sho, The Protean",
+    "sourceTags": [
+      "Health",
+      "SpellBlock",
+      "Armor",
+      "MagicResist"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6665.png"
+  },
+  {
+    "id": "6670",
+    "name": "Noonquiver",
+    "sourceTags": [
+      "Damage",
+      "CriticalStrike"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6670.png"
+  },
+  {
+    "id": "6672",
+    "name": "Kraken Slayer",
+    "sourceTags": [
+      "Damage",
+      "AttackSpeed",
+      "OnHit",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6672.png"
+  },
+  {
+    "id": "6673",
+    "name": "Immortal Shieldbow",
+    "sourceTags": [
+      "Damage",
+      "CriticalStrike"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6673.png"
+  },
+  {
+    "id": "6675",
+    "name": "Navori Flickerblade",
+    "sourceTags": [
+      "CriticalStrike",
+      "AttackSpeed",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6675.png"
+  },
+  {
+    "id": "6676",
+    "name": "The Collector",
+    "sourceTags": [
+      "Damage",
+      "CriticalStrike",
+      "ArmorPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6676.png"
+  },
+  {
+    "id": "6690",
+    "name": "Rectrix",
+    "sourceTags": [
+      "Damage",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6690.png"
+  },
+  {
+    "id": "6692",
+    "name": "Eclipse",
+    "sourceTags": [
+      "Damage",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6692.png"
+  },
+  {
+    "id": "6694",
+    "name": "Serylda's Grudge",
+    "sourceTags": [
+      "Damage",
+      "CooldownReduction",
+      "ArmorPenetration",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6694.png"
+  },
+  {
+    "id": "6695",
+    "name": "Serpent's Fang",
+    "sourceTags": [
+      "Damage",
+      "ArmorPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6695.png"
+  },
+  {
+    "id": "6696",
+    "name": "Axiom Arc",
+    "sourceTags": [
+      "Damage",
+      "ArmorPenetration",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6696.png"
+  },
+  {
+    "id": "6698",
+    "name": "Profane Hydra",
+    "sourceTags": [
+      "Damage",
+      "Active",
+      "CooldownReduction",
+      "ArmorPenetration",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6698.png"
+  },
+  {
+    "id": "6699",
+    "name": "Voltaic Cyclosword",
+    "sourceTags": [
+      "Damage",
+      "Active",
+      "CooldownReduction",
+      "ArmorPenetration",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6699.png"
+  },
+  {
+    "id": "8010",
+    "name": "Bloodletter's Curse",
+    "sourceTags": [
+      "Health",
+      "SpellDamage",
+      "CooldownReduction",
+      "MagicPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/8010.png"
+  },
+  {
+    "id": "8020",
+    "name": "Abyssal Mask",
+    "sourceTags": [
+      "Health",
+      "SpellBlock",
+      "CooldownReduction",
+      "MagicResist",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/8020.png"
+  },
+  {
+    "id": "123430",
+    "name": "Rite of Ruin",
+    "sourceTags": [
+      "CriticalStrike",
+      "SpellDamage",
+      "CooldownReduction",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/123430.png"
+  },
+  {
+    "id": "124011",
+    "name": "Sword of Blossoming Dawn",
+    "sourceTags": [
+      "Health",
+      "SpellDamage",
+      "CooldownReduction",
+      "OnHit",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/124011.png"
+  },
+  {
+    "id": "126697",
+    "name": "Hubris",
+    "sourceTags": [
+      "Damage",
+      "Active",
+      "CooldownReduction",
+      "ArmorPenetration",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/126697.png"
+  },
+  {
+    "id": "223069",
+    "name": "Void Immolation",
+    "sourceTags": [
+      "Health",
+      "SpellBlock",
+      "HealthRegen",
+      "Armor",
+      "Aura",
+      "CooldownReduction",
+      "MagicResist",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/223069.png"
+  },
+  {
+    "id": "223084",
+    "name": "Heartsteel",
+    "sourceTags": [
+      "Health"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/223084.png"
+  },
+  {
+    "id": "226668",
+    "name": "Ultra Hydra",
+    "sourceTags": [
+      "Damage",
+      "LifeSteal",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/226668.png"
+  },
+  {
+    "id": "228002",
+    "name": "Wooglet's Witchcap",
+    "sourceTags": [
+      "Armor",
+      "SpellDamage",
+      "Active"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/228002.png"
+  },
+  {
+    "id": "771001",
+    "name": "Boots of Speed",
+    "sourceTags": [
+      "Boots"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/771001.png"
+  },
+  {
+    "id": "771004",
+    "name": "Faerie Charm",
+    "sourceTags": [
+      "ManaRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/771004.png"
+  },
+  {
+    "id": "771006",
+    "name": "Rejuvenation Bead",
+    "sourceTags": [
+      "HealthRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/771006.png"
+  },
+  {
+    "id": "771011",
+    "name": "Giant's Belt",
+    "sourceTags": [
+      "Health"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/771011.png"
+  },
+  {
+    "id": "771018",
+    "name": "Cloak of Agility",
+    "sourceTags": [
+      "CriticalStrike"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/771018.png"
+  },
+  {
+    "id": "771026",
+    "name": "Blasting Wand",
+    "sourceTags": [
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/771026.png"
+  },
+  {
+    "id": "771027",
+    "name": "Sapphire Crystal",
+    "sourceTags": [
+      "Mana"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/771027.png"
+  },
+  {
+    "id": "771028",
+    "name": "Ruby Crystal",
+    "sourceTags": [
+      "Health"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/771028.png"
+  },
+  {
+    "id": "771029",
+    "name": "Cloth Armor",
+    "sourceTags": [
+      "Armor"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/771029.png"
+  },
+  {
+    "id": "771031",
+    "name": "Chain Vest",
+    "sourceTags": [
+      "Armor"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/771031.png"
+  },
+  {
+    "id": "771033",
+    "name": "Null-Magic Mantle",
+    "sourceTags": [
+      "SpellBlock"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/771033.png"
+  },
+  {
+    "id": "771036",
+    "name": "Long Sword",
+    "sourceTags": [
+      "Damage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/771036.png"
+  },
+  {
+    "id": "771037",
+    "name": "Pickaxe",
+    "sourceTags": [
+      "Damage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/771037.png"
+  },
+  {
+    "id": "771038",
+    "name": "B. F. Sword",
+    "sourceTags": [
+      "Damage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/771038.png"
+  },
+  {
+    "id": "771039",
+    "name": "Hunter's Machete",
+    "sourceTags": [
+      "Damage",
+      "OnHit"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/771039.png"
+  },
+  {
+    "id": "771042",
+    "name": "Dagger",
+    "sourceTags": [
+      "AttackSpeed"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/771042.png"
+  },
+  {
+    "id": "771043",
+    "name": "Recurve Bow",
+    "sourceTags": [
+      "AttackSpeed"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/771043.png"
+  },
+  {
+    "id": "771051",
+    "name": "Brawler's Gloves",
+    "sourceTags": [
+      "CriticalStrike"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/771051.png"
+  },
+  {
+    "id": "771052",
+    "name": "Amplifying Tome",
+    "sourceTags": [
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/771052.png"
+  },
+  {
+    "id": "771053",
+    "name": "Vampiric Scepter",
+    "sourceTags": [
+      "Damage",
+      "LifeSteal"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/771053.png"
+  },
+  {
+    "id": "771054",
+    "name": "Doran's Shield",
+    "sourceTags": [
+      "Health",
+      "HealthRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/771054.png"
+  },
+  {
+    "id": "771055",
+    "name": "Doran's Blade",
+    "sourceTags": [
+      "Health",
+      "Damage",
+      "LifeSteal",
+      "OnHit"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/771055.png"
+  },
+  {
+    "id": "771056",
+    "name": "Doran's Ring",
+    "sourceTags": [
+      "Health",
+      "SpellDamage",
+      "ManaRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/771056.png"
+  },
+  {
+    "id": "771057",
+    "name": "Negatron Cloak",
+    "sourceTags": [
+      "SpellBlock"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/771057.png"
+  },
+  {
+    "id": "771058",
+    "name": "Needlessly Large Rod",
+    "sourceTags": [
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/771058.png"
+  },
+  {
+    "id": "771080",
+    "name": "Spirit Stone",
+    "sourceTags": [
+      "HealthRegen",
+      "ManaRegen",
+      "OnHit"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/771080.png"
+  },
+  {
+    "id": "772041",
+    "name": "Crystalline Flask",
+    "sourceTags": [
+      "HealthRegen",
+      "ManaRegen",
+      "Consumable",
+      "Lane",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/772041.png"
+  },
+  {
+    "id": "773001",
+    "name": "Abyssal Scepter",
+    "sourceTags": [
+      "SpellBlock",
+      "SpellDamage",
+      "Aura"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773001.png"
+  },
+  {
+    "id": "773003",
+    "name": "Archangel's Staff",
+    "sourceTags": [
+      "SpellDamage",
+      "Mana",
+      "ManaRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773003.png"
+  },
+  {
+    "id": "773004",
+    "name": "Manamune",
+    "sourceTags": [
+      "Damage",
+      "Mana",
+      "ManaRegen",
+      "OnHit"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773004.png"
+  },
+  {
+    "id": "773005",
+    "name": "Atma's Impaler",
+    "sourceTags": [
+      "Armor",
+      "Damage",
+      "CriticalStrike"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773005.png"
+  },
+  {
+    "id": "773006",
+    "name": "Berserker's Greaves",
+    "sourceTags": [
+      "AttackSpeed",
+      "Boots"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773006.png"
+  },
+  {
+    "id": "773009",
+    "name": "Boots of Swiftness",
+    "sourceTags": [
+      "Boots"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773009.png"
+  },
+  {
+    "id": "773010",
+    "name": "Catalyst the Protector",
+    "sourceTags": [
+      "Health",
+      "Mana"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773010.png"
+  },
+  {
+    "id": "773020",
+    "name": "Sorcerer's Shoes",
+    "sourceTags": [
+      "Boots",
+      "MagicPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773020.png"
+  },
+  {
+    "id": "773022",
+    "name": "Frozen Mallet",
+    "sourceTags": [
+      "Health",
+      "Damage",
+      "OnHit",
+      "Slow"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773022.png"
+  },
+  {
+    "id": "773023",
+    "name": "Twin Shadows",
+    "sourceTags": [
+      "SpellBlock",
+      "SpellDamage",
+      "NonbootsMovement",
+      "Slow"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773023.png"
+  },
+  {
+    "id": "773024",
+    "name": "Glacial Shroud",
+    "sourceTags": [
+      "Armor",
+      "Mana",
+      "CooldownReduction"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773024.png"
+  },
+  {
+    "id": "773025",
+    "name": "Iceborn Gauntlet",
+    "sourceTags": [
+      "Armor",
+      "SpellDamage",
+      "Mana",
+      "CooldownReduction",
+      "Slow"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773025.png"
+  },
+  {
+    "id": "773026",
+    "name": "Guardian Angel",
+    "sourceTags": [
+      "SpellBlock",
+      "Armor"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773026.png"
+  },
+  {
+    "id": "773027",
+    "name": "Rod of Ages",
+    "sourceTags": [
+      "Health",
+      "SpellDamage",
+      "Mana"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773027.png"
+  },
+  {
+    "id": "773028",
+    "name": "Chalice of Harmony",
+    "sourceTags": [
+      "SpellBlock",
+      "ManaRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773028.png"
+  },
+  {
+    "id": "773031",
+    "name": "Infinity Edge",
+    "sourceTags": [
+      "Damage",
+      "CriticalStrike"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773031.png"
+  },
+  {
+    "id": "773035",
+    "name": "Last Whisper",
+    "sourceTags": [
+      "Damage",
+      "ArmorPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773035.png"
+  },
+  {
+    "id": "773037",
+    "name": "Mana Manipulator",
+    "sourceTags": [
+      "ManaRegen",
+      "Aura"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773037.png"
+  },
+  {
+    "id": "773041",
+    "name": "Mejai's Soulstealer",
+    "sourceTags": [
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773041.png"
+  },
+  {
+    "id": "773044",
+    "name": "Phage",
+    "sourceTags": [
+      "Health",
+      "Damage",
+      "OnHit"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773044.png"
+  },
+  {
+    "id": "773046",
+    "name": "Phantom Dancer",
+    "sourceTags": [
+      "CriticalStrike",
+      "AttackSpeed",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773046.png"
+  },
+  {
+    "id": "773047",
+    "name": "Ninja Tabi",
+    "sourceTags": [
+      "Armor",
+      "Boots"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773047.png"
+  },
+  {
+    "id": "773050",
+    "name": "Stark's Fervor",
+    "sourceTags": [
+      "Health",
+      "Damage",
+      "LifeSteal",
+      "CooldownReduction",
+      "Aura"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773050.png"
+  },
+  {
+    "id": "773052",
+    "name": "Emblem of Valor",
+    "sourceTags": [
+      "Health",
+      "Armor"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773052.png"
+  },
+  {
+    "id": "773056",
+    "name": "Ohmwrecker",
+    "sourceTags": [
+      "Health",
+      "HealthRegen",
+      "SpellDamage",
+      "ManaRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773056.png"
+  },
+  {
+    "id": "773057",
+    "name": "Sheen",
+    "sourceTags": [
+      "SpellDamage",
+      "Mana"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773057.png"
+  },
+  {
+    "id": "773060",
+    "name": "Banner of Command",
+    "sourceTags": [
+      "HealthRegen",
+      "Armor",
+      "SpellDamage",
+      "CooldownReduction",
+      "Aura"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773060.png"
+  },
+  {
+    "id": "773063",
+    "name": "Soul Shroud",
+    "sourceTags": [
+      "Health",
+      "ManaRegen",
+      "Aura",
+      "CooldownReduction"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773063.png"
+  },
+  {
+    "id": "773064",
+    "name": "Force of Nature",
+    "sourceTags": [
+      "SpellBlock",
+      "HealthRegen",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773064.png"
+  },
+  {
+    "id": "773065",
+    "name": "Spirit Visage",
+    "sourceTags": [
+      "Health",
+      "SpellBlock",
+      "HealthRegen",
+      "CooldownReduction"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773065.png"
+  },
+  {
+    "id": "773067",
+    "name": "Kindlegem",
+    "sourceTags": [
+      "Health",
+      "CooldownReduction"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773067.png"
+  },
+  {
+    "id": "773068",
+    "name": "Sunfire Cape",
+    "sourceTags": [
+      "Health",
+      "Armor"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773068.png"
+  },
+  {
+    "id": "773069",
+    "name": "Shurelya's Reverie",
+    "sourceTags": [
+      "Health",
+      "HealthRegen",
+      "ManaRegen",
+      "NonbootsMovement",
+      "CooldownReduction"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773069.png"
+  },
+  {
+    "id": "773070",
+    "name": "Tear of the Goddess",
+    "sourceTags": [
+      "Mana",
+      "ManaRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773070.png"
+  },
+  {
+    "id": "773071",
+    "name": "The Black Cleaver",
+    "sourceTags": [
+      "Health",
+      "Damage",
+      "OnHit",
+      "CooldownReduction",
+      "ArmorPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773071.png"
+  },
+  {
+    "id": "773072",
+    "name": "The Bloodthirster",
+    "sourceTags": [
+      "Damage",
+      "LifeSteal"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773072.png"
+  },
+  {
+    "id": "773074",
+    "name": "Ravenous Hydra",
+    "sourceTags": [
+      "HealthRegen",
+      "Damage",
+      "LifeSteal",
+      "OnHit"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773074.png"
+  },
+  {
+    "id": "773075",
+    "name": "Thornmail",
+    "sourceTags": [
+      "Armor"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773075.png"
+  },
+  {
+    "id": "773077",
+    "name": "Tiamat",
+    "sourceTags": [
+      "HealthRegen",
+      "Damage",
+      "OnHit"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773077.png"
+  },
+  {
+    "id": "773078",
+    "name": "Trinity Force",
+    "sourceTags": [
+      "Health",
+      "Damage",
+      "CriticalStrike",
+      "AttackSpeed",
+      "SpellDamage",
+      "Mana",
+      "NonbootsMovement",
+      "OnHit",
+      "Slow"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773078.png"
+  },
+  {
+    "id": "773082",
+    "name": "Warden's Mail",
+    "sourceTags": [
+      "Armor",
+      "Slow"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773082.png"
+  },
+  {
+    "id": "773083",
+    "name": "Warmog's Armor",
+    "sourceTags": [
+      "Health",
+      "HealthRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773083.png"
+  },
+  {
+    "id": "773084",
+    "name": "Innervating Locket",
+    "sourceTags": [
+      "Health",
+      "Damage",
+      "Mana"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773084.png"
+  },
+  {
+    "id": "773085",
+    "name": "Runaan's Hurricane",
+    "sourceTags": [
+      "AttackSpeed",
+      "OnHit"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773085.png"
+  },
+  {
+    "id": "773086",
+    "name": "Zeal",
+    "sourceTags": [
+      "CriticalStrike",
+      "AttackSpeed",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773086.png"
+  },
+  {
+    "id": "773087",
+    "name": "Statikk Shiv",
+    "sourceTags": [
+      "CriticalStrike",
+      "AttackSpeed",
+      "NonbootsMovement",
+      "OnHit"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773087.png"
+  },
+  {
+    "id": "773089",
+    "name": "Rabadon's Deathcap",
+    "sourceTags": [
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773089.png"
+  },
+  {
+    "id": "773091",
+    "name": "Wit's End",
+    "sourceTags": [
+      "SpellBlock",
+      "AttackSpeed",
+      "OnHit"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773091.png"
+  },
+  {
+    "id": "773092",
+    "name": "Shard of True Ice",
+    "sourceTags": [
+      "SpellDamage",
+      "ManaRegen",
+      "Aura",
+      "Slow",
+      "GoldPer"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773092.png"
+  },
+  {
+    "id": "773093",
+    "name": "Avarice Blade",
+    "sourceTags": [
+      "CriticalStrike",
+      "GoldPer"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773093.png"
+  },
+  {
+    "id": "773096",
+    "name": "Philosopher's Stone",
+    "sourceTags": [
+      "HealthRegen",
+      "ManaRegen",
+      "GoldPer"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773096.png"
+  },
+  {
+    "id": "773098",
+    "name": "Lucky Pick",
+    "sourceTags": [
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773098.png"
+  },
+  {
+    "id": "773100",
+    "name": "Lich Bane",
+    "sourceTags": [
+      "SpellDamage",
+      "Mana",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773100.png"
+  },
+  {
+    "id": "773101",
+    "name": "Stinger",
+    "sourceTags": [
+      "AttackSpeed",
+      "CooldownReduction"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773101.png"
+  },
+  {
+    "id": "773102",
+    "name": "Banshee's Veil",
+    "sourceTags": [
+      "Health",
+      "SpellBlock",
+      "HealthRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773102.png"
+  },
+  {
+    "id": "773105",
+    "name": "Aegis of the Legion",
+    "sourceTags": [
+      "Health",
+      "SpellBlock",
+      "Armor",
+      "Aura"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773105.png"
+  },
+  {
+    "id": "773106",
+    "name": "Madred's Razors",
+    "sourceTags": [
+      "Armor",
+      "OnHit",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773106.png"
+  },
+  {
+    "id": "773107",
+    "name": "Runic Bulwark",
+    "sourceTags": [
+      "Health",
+      "SpellBlock",
+      "HealthRegen",
+      "Armor",
+      "Aura"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773107.png"
+  },
+  {
+    "id": "773108",
+    "name": "Fiendish Codex",
+    "sourceTags": [
+      "SpellDamage",
+      "CooldownReduction"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773108.png"
+  },
+  {
+    "id": "773109",
+    "name": "Madred's Bloodrazor",
+    "sourceTags": [
+      "Armor",
+      "Damage",
+      "AttackSpeed",
+      "OnHit"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773109.png"
+  },
+  {
+    "id": "773110",
+    "name": "Frozen Heart",
+    "sourceTags": [
+      "Armor",
+      "Mana",
+      "CooldownReduction",
+      "Aura"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773110.png"
+  },
+  {
+    "id": "773111",
+    "name": "Mercury's Treads",
+    "sourceTags": [
+      "SpellBlock",
+      "Boots",
+      "Tenacity"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773111.png"
+  },
+  {
+    "id": "773114",
+    "name": "Malady",
+    "sourceTags": [
+      "AttackSpeed",
+      "SpellDamage",
+      "OnHit",
+      "MagicPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773114.png"
+  },
+  {
+    "id": "773115",
+    "name": "Nashor's Tooth",
+    "sourceTags": [
+      "AttackSpeed",
+      "SpellDamage",
+      "CooldownReduction"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773115.png"
+  },
+  {
+    "id": "773116",
+    "name": "Rylai's Crystal Scepter",
+    "sourceTags": [
+      "Health",
+      "SpellDamage",
+      "Slow"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773116.png"
+  },
+  {
+    "id": "773117",
+    "name": "Boots of Mobility",
+    "sourceTags": [
+      "Boots"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773117.png"
+  },
+  {
+    "id": "773123",
+    "name": "Executioner's Calling",
+    "sourceTags": [
+      "Damage",
+      "CriticalStrike",
+      "OnHit"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773123.png"
+  },
+  {
+    "id": "773124",
+    "name": "Guinsoo's Rageblade",
+    "sourceTags": [
+      "Damage",
+      "AttackSpeed",
+      "LifeSteal",
+      "SpellDamage",
+      "OnHit",
+      "SpellVamp"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773124.png"
+  },
+  {
+    "id": "773128",
+    "name": "Deathfire Grasp",
+    "sourceTags": [
+      "SpellDamage",
+      "CooldownReduction"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773128.png"
+  },
+  {
+    "id": "773131",
+    "name": "Sword of the Divine",
+    "sourceTags": [
+      "CriticalStrike",
+      "AttackSpeed"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773131.png"
+  },
+  {
+    "id": "773132",
+    "name": "Heart of Gold",
+    "sourceTags": [
+      "Health",
+      "GoldPer"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773132.png"
+  },
+  {
+    "id": "773134",
+    "name": "The Brutalizer",
+    "sourceTags": [
+      "Damage",
+      "CooldownReduction",
+      "ArmorPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773134.png"
+  },
+  {
+    "id": "773135",
+    "name": "Void Staff",
+    "sourceTags": [
+      "SpellDamage",
+      "MagicPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773135.png"
+  },
+  {
+    "id": "773136",
+    "name": "Haunting Guise",
+    "sourceTags": [
+      "Health",
+      "SpellDamage",
+      "MagicPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773136.png"
+  },
+  {
+    "id": "773138",
+    "name": "Leviathan",
+    "sourceTags": [
+      "Health"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773138.png"
+  },
+  {
+    "id": "773139",
+    "name": "Mercurial Scimitar",
+    "sourceTags": [
+      "SpellBlock",
+      "Damage",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773139.png"
+  },
+  {
+    "id": "773140",
+    "name": "Quicksilver Sash",
+    "sourceTags": [
+      "SpellBlock"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773140.png"
+  },
+  {
+    "id": "773141",
+    "name": "Sword of the Occult",
+    "sourceTags": [
+      "Damage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773141.png"
+  },
+  {
+    "id": "773142",
+    "name": "Youmuu's Ghostblade",
+    "sourceTags": [
+      "Damage",
+      "CriticalStrike",
+      "AttackSpeed",
+      "NonbootsMovement",
+      "CooldownReduction",
+      "ArmorPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773142.png"
+  },
+  {
+    "id": "773143",
+    "name": "Randuin's Omen",
+    "sourceTags": [
+      "Health",
+      "Armor"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773143.png"
+  },
+  {
+    "id": "773144",
+    "name": "Bilgewater Cutlass",
+    "sourceTags": [
+      "Damage",
+      "LifeSteal",
+      "Slow"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773144.png"
+  },
+  {
+    "id": "773145",
+    "name": "Hextech Revolver",
+    "sourceTags": [
+      "SpellDamage",
+      "SpellVamp"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773145.png"
+  },
+  {
+    "id": "773146",
+    "name": "Hextech Gunblade",
+    "sourceTags": [
+      "Damage",
+      "LifeSteal",
+      "SpellDamage",
+      "Slow",
+      "SpellVamp"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773146.png"
+  },
+  {
+    "id": "773151",
+    "name": "Liandry's Torment",
+    "sourceTags": [
+      "Health",
+      "SpellDamage",
+      "MagicPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773151.png"
+  },
+  {
+    "id": "773152",
+    "name": "Will of the Ancients",
+    "sourceTags": [
+      "SpellDamage",
+      "Aura",
+      "SpellVamp"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773152.png"
+  },
+  {
+    "id": "773153",
+    "name": "Blade of The Ruined King",
+    "sourceTags": [
+      "Damage",
+      "AttackSpeed",
+      "LifeSteal",
+      "OnHit"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773153.png"
+  },
+  {
+    "id": "773154",
+    "name": "Wriggle's Lantern",
+    "sourceTags": [
+      "Armor",
+      "Damage",
+      "LifeSteal",
+      "Vision",
+      "Active",
+      "OnHit",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773154.png"
+  },
+  {
+    "id": "773155",
+    "name": "Hexdrinker",
+    "sourceTags": [
+      "SpellBlock",
+      "Damage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773155.png"
+  },
+  {
+    "id": "773156",
+    "name": "Maw of Malmortius",
+    "sourceTags": [
+      "SpellBlock",
+      "Damage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773156.png"
+  },
+  {
+    "id": "773157",
+    "name": "Zhonya's Hourglass",
+    "sourceTags": [
+      "Armor",
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773157.png"
+  },
+  {
+    "id": "773158",
+    "name": "Ionian Boots of Lucidity",
+    "sourceTags": [
+      "Boots",
+      "CooldownReduction"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773158.png"
+  },
+  {
+    "id": "773165",
+    "name": "Morellonomicon",
+    "sourceTags": [
+      "SpellDamage",
+      "ManaRegen",
+      "CooldownReduction"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773165.png"
+  },
+  {
+    "id": "773172",
+    "name": "Zephyr",
+    "sourceTags": [
+      "Damage",
+      "AttackSpeed",
+      "NonbootsMovement",
+      "CooldownReduction",
+      "Tenacity"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773172.png"
+  },
+  {
+    "id": "773173",
+    "name": "Eleisa's Miracle",
+    "sourceTags": [
+      "HealthRegen",
+      "ManaRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773173.png"
+  },
+  {
+    "id": "773174",
+    "name": "Shushei's Mana Jug",
+    "sourceTags": [
+      "SpellBlock",
+      "SpellDamage",
+      "ManaRegen",
+      "CooldownReduction"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773174.png"
+  },
+  {
+    "id": "773178",
+    "name": "Ionic Spark",
+    "sourceTags": [
+      "Health",
+      "AttackSpeed",
+      "OnHit"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773178.png"
+  },
+  {
+    "id": "773190",
+    "name": "Locket of the Iron Solari",
+    "sourceTags": [
+      "Health",
+      "HealthRegen",
+      "Armor",
+      "Aura"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773190.png"
+  },
+  {
+    "id": "773191",
+    "name": "Seeker's Armguard",
+    "sourceTags": [
+      "Armor",
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773191.png"
+  },
+  {
+    "id": "773206",
+    "name": "Spirit of the Spectral Wraith",
+    "sourceTags": [
+      "SpellDamage",
+      "ManaRegen",
+      "OnHit",
+      "CooldownReduction",
+      "SpellVamp"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773206.png"
+  },
+  {
+    "id": "773207",
+    "name": "Spirit of the Ancient Golem",
+    "sourceTags": [
+      "Health",
+      "HealthRegen",
+      "ManaRegen",
+      "OnHit",
+      "CooldownReduction",
+      "Tenacity"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773207.png"
+  },
+  {
+    "id": "773209",
+    "name": "Spirit of the Elder Lizard",
+    "sourceTags": [
+      "HealthRegen",
+      "Damage",
+      "ManaRegen",
+      "OnHit",
+      "CooldownReduction"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773209.png"
+  },
+  {
+    "id": "773211",
+    "name": "Spectre's Cowl",
+    "sourceTags": [
+      "Health",
+      "SpellBlock",
+      "HealthRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773211.png"
+  },
+  {
+    "id": "773222",
+    "name": "Mikael's Crucible",
+    "sourceTags": [
+      "SpellBlock",
+      "HealthRegen",
+      "ManaRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773222.png"
+  },
+  {
+    "id": "773504",
+    "name": "Ardent Censer",
+    "sourceTags": [
+      "AttackSpeed",
+      "SpellDamage",
+      "ManaRegen",
+      "NonbootsMovement",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773504.png"
+  },
+  {
+    "id": "773512",
+    "name": "Zz'Rot Portal",
+    "sourceTags": [
+      "SpellBlock",
+      "HealthRegen",
+      "Armor",
+      "Active",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773512.png"
+  },
+  {
+    "id": "773513",
+    "name": "Prototype Hex Core",
+    "sourceTags": [
+      "Damage",
+      "SpellDamage",
+      "Mana"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773513.png"
+  },
+  {
+    "id": "773514",
+    "name": "Hex Core mk-1",
+    "sourceTags": [
+      "Damage",
+      "SpellDamage",
+      "Mana"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773514.png"
+  },
+  {
+    "id": "773515",
+    "name": "Hex Core mk-2",
+    "sourceTags": [
+      "Damage",
+      "SpellDamage",
+      "Mana"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773515.png"
+  },
+  {
+    "id": "773516",
+    "name": "Perfect Hex Core",
+    "sourceTags": [
+      "Damage",
+      "SpellDamage",
+      "Mana"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/773516.png"
+  },
+  {
+    "id": "994403",
+    "name": "Golden Spatula",
+    "sourceTags": [
+      "Health",
+      "SpellBlock",
+      "HealthRegen",
+      "Armor",
+      "Damage",
+      "CriticalStrike",
+      "AttackSpeed",
+      "LifeSteal",
+      "SpellDamage",
+      "Mana",
+      "ManaRegen",
+      "CooldownReduction",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/994403.png"
+  }
+]

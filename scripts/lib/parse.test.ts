@@ -41,6 +41,14 @@ describe("parseAugments", () => {
     assert.equal(report.warnings.length, 1);
     assert.match(report.warnings[0], /localisation keys/);
   });
+  it("warns about textless names and names shared by several ids", () => {
+    const icon = "/lol-game-data/assets/ASSETS/UX/Kiwi/Augments/Icons/x_small.png";
+    const entry = (id: number, nameTRA: string) => ({ id, nameTRA, rarity: "kGold", augmentSmallIconPath: icon });
+    const { entries, warnings } = parseAugments([entry(1, "Twin Name"), entry(2, "Twin Name"), entry(3, "???"), entry(4, "   ")]);
+    assert.equal(entries.length, 4);
+    assert.ok(warnings.some((w) => /no letters or digits \(ids: 3, 4\)/.test(w)));
+    assert.ok(warnings.some((w) => /"Twin Name" is shared by ids 1, 2/.test(w)));
+  });
   it("rejects a feed that is not an array", () => {
     assert.throws(() => parseAugments({}), /top-level array/);
   });

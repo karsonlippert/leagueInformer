@@ -69,7 +69,18 @@ export function validateCatalog(catalog: Catalog, vocabulary: TagVocabulary): Is
     if (when.itemTagCount) checkTags(owner, [when.itemTagCount.tag]);
     if (when.takenAugmentTagCount) checkTags(owner, [when.takenAugmentTagCount.tag]);
     for (const id of when.itemIdsAny ?? []) {
-      if (!itemIds.has(id)) error(`${owner}: itemIdsAny names unknown item "${id}"`);
+      if (!itemIds.has(id)) {
+        error(`${owner}: itemIdsAny names unknown item "${id}"`);
+        continue;
+      }
+      const name = catalog.items.find((i) => i.id === id)!.name;
+      const sameName = catalog.items.filter((i) => i.name === name).map((i) => i.id);
+      if (sameName.length > 1) {
+        issues.push({
+          level: "warning",
+          message: `${owner}: item "${id}" (${name}) shares its name with ${sameName.filter((x) => x !== id).join(", ")}; the rule will not fire for those variants`,
+        });
+      }
     }
   }
   return issues;

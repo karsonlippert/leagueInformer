@@ -46,6 +46,14 @@ describe("validateCatalog", () => {
     assert.match(text, /empty "when"/);
   });
 
+  it("warns when a rule names an item that has same-name variants", () => {
+    const catalog = shipped();
+    catalog.items.push({ id: "heartsteel-empowered", name: "Heartsteel", tags: ["health"] });
+    const issues = validateCatalog(catalog, vocabulary);
+    assert.equal(issues.filter((i) => i.level === "error").length, 0);
+    assert.match(issues.map((i) => i.message).join("\n"), /shares its name with heartsteel-empowered/);
+  });
+
   it("flags championDeltas for an unknown champion", () => {
     const catalog = shipped();
     catalog.augments[0].championDeltas = { Nobody: 1 };

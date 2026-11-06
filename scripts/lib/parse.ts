@@ -98,6 +98,17 @@ export function parseAugments(raw: unknown): ParseReport<GeneratedAugment> {
     if (seen.has(entry.id)) warnings.push(`duplicate augment id ${entry.id}`);
     seen.add(entry.id);
   }
+  const textless = entries.filter((e) => !/[\p{L}\p{N}]/u.test(e.name));
+  if (textless.length > 0) {
+    warnings.push(
+      `${textless.length} augment name(s) contain no letters or digits (ids: ${textless.map((e) => e.id).join(", ")}).`,
+    );
+  }
+  const idsByName = new Map<string, string[]>();
+  for (const entry of entries) idsByName.set(entry.name, [...(idsByName.get(entry.name) ?? []), entry.id]);
+  for (const [name, ids] of idsByName) {
+    if (ids.length > 1) warnings.push(`augment name "${name}" is shared by ids ${ids.join(", ")}`);
+  }
 
   entries.sort((a, b) => Number(a.id) - Number(b.id) || a.id.localeCompare(b.id));
   return { entries, skipped, warnings };
