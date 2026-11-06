@@ -1,0 +1,5 @@
+{ "data": {
+  "Zed": { "id": "Zed", "key": "238", "name": "Zed", "tags": ["Assassin", "Fighter"], "image": { "full": "Zed.png" } },
+  "Lux": { "id": "Lux", "key": "99", "name": "Lux", "tags": ["Mage", "Support"], "image": { "full": "Lux.png" } },
+  "Broken": { "key": "0" }
+} }

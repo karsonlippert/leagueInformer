@@ -9,7 +9,7 @@ to run alongside the game. See `docs/RESEARCH.md` for the compliance rules and t
 
 ## Status
 
-- The scoring engine (`src/engine`) is covered by tests and passes.
+- The scoring engine (`src/engine`) and the data tooling (`scripts`, `src/data`) are covered by tests and pass.
 - The React UI (`src/App.tsx`, `src/components`) is written but has **not been compiled or
   run yet**. The scaffold was created in a sandbox that could not install npm packages.
   Expect to fix small type or build errors on the first `npm run dev`.
@@ -37,6 +37,32 @@ rates in third-party tools.
   capped bonus.
 - `src/engine/scoring.ts`: pure functions, no UI or I/O. `scoreAugment` computes the
   adjusted tier plus the list of reasons; `rankOffers` orders the offered augments.
+
+## Data pipeline
+
+Riot's data and our judgment are kept in separate layers so a patch import never overwrites
+hand-written work.
+
+```
+npm run import-data     # download augments, items, champions into src/data/generated
+npm run data:check      # validate tags, rules and references; report how many augments are rated
+```
+
+- `src/data/generated/` is written by the importer and committed. Do not edit it by hand.
+  Augments come from CommunityDragon `cherry-augments.json` (Mayhem entries only), items and
+  champions from Data Dragon.
+- `src/data/authored/` will hold our judgment, keyed by id: base tiers and tags for augments,
+  effect tags for items, optional extra champion tags. An imported augment with no authored
+  entry is left out of the catalog rather than given an invented tier.
+- `src/data/tags.json` is the controlled tag vocabulary. `data:check` rejects any tag not in
+  it, and any rule that names an unknown item, set or champion.
+- `scripts/fixtures/` holds small made-up feeds so the importer can run offline:
+  `npm run import-data -- --fixtures scripts/fixtures --out some/dir`.
+
+The importer has **not been run against the live feeds yet**. The field names it reads
+(`nameTRA`, `rarity` codes, the `Kiwi` icon folder) came from other projects' code, not from
+a response we fetched. If a feed has a different shape it stops without writing anything and
+prints the first raw entry.
 
 ## Next steps
 

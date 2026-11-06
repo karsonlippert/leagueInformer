@@ -1,0 +1,8 @@
+[
+  { "id": 1, "nameTRA": "Arena Only Augment", "rarity": "kSilver", "augmentSmallIconPath": "/lol-game-data/assets/ASSETS/UX/Cherry/Augments/Icons/ArenaOnly_small.png" },
+  { "id": 2001, "nameTRA": "Fixture Silver Augment", "rarity": "kSilver", "augmentSmallIconPath": "/lol-game-data/assets/ASSETS/UX/Kiwi/Augments/Icons/FixtureSilver_small.png" },
+  { "id": 2002, "nameTRA": "Fixture Gold Augment", "rarity": "kGold", "augmentSmallIconPath": "/lol-game-data/assets/ASSETS/UX/Kiwi/Augments/Icons/FixtureGold_small.png" },
+  { "id": 2003, "nameTRA": "Fixture Prismatic Augment", "rarity": "kPrismatic", "augmentIconPath": "/lol-game-data/assets/ASSETS/UX/Kiwi/Augments/Icons/FixturePrismatic_large.png" },
+  { "id": 2004, "nameTRA": "Augment_Fixture_NameKey", "rarity": "kGold", "augmentSmallIconPath": "/lol-game-data/assets/ASSETS/UX/Kiwi/Augments/Icons/KeyName_small.png" },
+  { "id": 2005, "nameTRA": "Fixture Odd Rarity", "rarity": "kLegendary", "augmentSmallIconPath": "/lol-game-data/assets/ASSETS/UX/Kiwi/Augments/Icons/Odd_small.png" }
+]

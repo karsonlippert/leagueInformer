@@ -7,8 +7,10 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "preview": "vite preview",
-    "test": "node --experimental-strip-types --no-warnings --test src/engine/*.test.ts",
-    "typecheck": "tsc --noEmit"
+    "test": "node --experimental-strip-types --no-warnings --test \"src/**/*.test.ts\" \"scripts/**/*.test.ts\"",
+    "typecheck": "tsc --noEmit",
+    "import-data": "node --experimental-strip-types --no-warnings scripts/import-data.ts",
+    "data:check": "node --experimental-strip-types --no-warnings scripts/validate-data.ts"
   },
   "dependencies": {
     "react": "^19.1.0",
@@ -19,6 +21,7 @@
     "@types/react-dom": "^19.1.0",
     "@vitejs/plugin-react": "^5.0.0",
     "typescript": "^5.9.0",
-    "vite": "^7.0.0"
+    "vite": "^7.0.0",
+    "@types/node": "^22.0.0"
   }
 }

@@ -1,0 +1,6 @@
+{ "data": {
+  "3084": { "name": "Fixture Heart Item", "tags": ["Health", "OnHit"], "maps": { "11": false, "12": true }, "gold": { "total": 3000, "purchasable": true } },
+  "2003": { "name": "Fixture Potion", "consumed": true, "tags": ["Consumable"], "maps": { "12": true }, "gold": { "total": 50, "purchasable": true } },
+  "9999": { "name": "Fixture Summoners Rift Only", "tags": [], "maps": { "11": true, "12": false }, "gold": { "total": 1000, "purchasable": true } },
+  "8888": { "name": "Fixture Not For Sale", "tags": [], "maps": { "12": true }, "gold": { "total": 0, "purchasable": false } }
+} }

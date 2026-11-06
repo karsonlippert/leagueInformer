@@ -1,0 +1,34 @@
+{
+  "effects": [
+    { "tag": "on-hit", "description": "Item or effect that triggers or scales on basic attacks" },
+    { "tag": "on-hit-applier", "description": "Augment that makes abilities apply on-hit effects" },
+    { "tag": "on-hit-scaling", "description": "Gets stronger the more on-hit effects trigger" },
+    { "tag": "attack-speed", "description": "Grants or scales with attack speed" },
+    { "tag": "crit", "description": "Grants or scales with critical strike" },
+    { "tag": "ability", "description": "Modifies or empowers champion abilities" },
+    { "tag": "ap-burst", "description": "Ability power based burst damage" },
+    { "tag": "ap-scaling", "description": "Scales with ability power" },
+    { "tag": "ad-scaling", "description": "Scales with attack damage" },
+    { "tag": "health", "description": "Grants or scales with maximum health" },
+    { "tag": "tank", "description": "Durability: armor, magic resist, health" },
+    { "tag": "sustain", "description": "Healing, shields, life steal, omnivamp" },
+    { "tag": "shield", "description": "Shield generation or shield scaling" },
+    { "tag": "crowd-control", "description": "Stuns, slows, roots and similar" },
+    { "tag": "mobility", "description": "Dashes, movement speed, repositioning" },
+    { "tag": "penetration", "description": "Armor or magic penetration, lethality" },
+    { "tag": "cooldown", "description": "Ability haste or cooldown reduction" },
+    { "tag": "mana", "description": "Mana or resource scaling" },
+    { "tag": "damage-over-time", "description": "Burn, bleed and other damage over time" },
+    { "tag": "execute", "description": "Bonus damage against low health targets" },
+    { "tag": "poke", "description": "Long range repeated damage" },
+    { "tag": "utility", "description": "Team support effects that fit no other tag" }
+  ],
+  "archetypes": [
+    { "tag": "fighter", "description": "Riot class: Fighter" },
+    { "tag": "tank", "description": "Riot class: Tank" },
+    { "tag": "mage", "description": "Riot class: Mage" },
+    { "tag": "assassin", "description": "Riot class: Assassin" },
+    { "tag": "marksman", "description": "Riot class: Marksman" },
+    { "tag": "support", "description": "Riot class: Support" }
+  ]
+}
