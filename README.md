@@ -64,6 +64,23 @@ The importer has **not been run against the live feeds yet**. The field names it
 a response we fetched. If a feed has a different shape it stops without writing anything and
 prints the first raw entry.
 
+### Known gap: the augment list is incomplete
+
+`npm run import-data` keeps only augments whose icon path contains `Kiwi`. Blitz's Mayhem pages
+list augments such as Mad Scientist, Eureka, Blade Waltz and Goliath that are **not** in the
+199 we imported, so that rule drops real Mayhem augments. Re-run `npm run import-data`: it now
+also writes `src/data/generated/augments.rejected.json` (every discarded entry) and prints the
+raw field names, so the filter can be corrected from evidence.
+
+### Per-champion tiers from a ranking file
+
+`npm run import-tiers -- --file rankings.json` reads rankings laid out like a ranking page
+(champion, then rarity, then tier, then augment names; see `TierFile` in `src/data/types.ts`),
+matches names to our ids, and writes `src/data/tiers/champion-tiers.json`. It reports every name
+it could not match instead of guessing. Pages that list only S to B leave other augments
+unlisted; those get a base tier of C (`unlistedTier`) until we know better. The file must name
+its `source`. Only load rankings you have the right to use.
+
 ## Next steps
 
 1. Run `npm install` and `npm run dev` locally and fix any build errors.

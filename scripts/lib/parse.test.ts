@@ -49,6 +49,12 @@ describe("parseAugments", () => {
     assert.ok(warnings.some((w) => /no letters or digits \(ids: 3, 4\)/.test(w)));
     assert.ok(warnings.some((w) => /"Twin Name" is shared by ids 1, 2/.test(w)));
   });
+  it("keeps the rejected entries and the raw field names for inspection", () => {
+    assert.deepEqual(report.rejected, [
+      { id: "1", name: "Arena Only Augment", rarity: "kSilver", iconPath: "/lol-game-data/assets/ASSETS/UX/Cherry/Augments/Icons/ArenaOnly_small.png" },
+    ]);
+    assert.ok(report.fieldNames.includes("nameTRA") && report.fieldNames.includes("rarity"));
+  });
   it("rejects a feed that is not an array", () => {
     assert.throws(() => parseAugments({}), /top-level array/);
   });

@@ -48,3 +48,25 @@ export interface AuthoredChampion {
   /** Extra tags added on top of Riot's own class tags. */
   tags: string[];
 }
+
+/** augment id -> champion id -> tier. */
+export type ChampionTierMap = Record<string, Record<string, Tier>>;
+
+/**
+ * Tier rankings from an outside source, laid out like a ranking page: per champion, then
+ * rarity, then tier, then augment names. Tiers a source does not list are simply absent.
+ */
+export interface TierFile {
+  /** Where the rankings came from. Required so provenance is never lost. */
+  source: string;
+  patch?: string;
+  champions: Record<string, Partial<Record<Rarity, Partial<Record<Tier, string[]>>>>>;
+}
+
+/** An imported augment the Mayhem filter discarded, kept so the filter can be checked. */
+export interface RejectedAugment {
+  id: string;
+  name: string;
+  rarity: string;
+  iconPath: string;
+}

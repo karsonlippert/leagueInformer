@@ -10,7 +10,8 @@
     "test": "node --experimental-strip-types --no-warnings --test \"src/**/*.test.ts\" \"scripts/**/*.test.ts\"",
     "typecheck": "tsc --noEmit",
     "import-data": "node --experimental-strip-types --no-warnings scripts/import-data.ts",
-    "data:check": "node --experimental-strip-types --no-warnings scripts/validate-data.ts"
+    "data:check": "node --experimental-strip-types --no-warnings scripts/validate-data.ts",
+    "import-tiers": "node --experimental-strip-types --no-warnings scripts/import-tiers.ts"
   },
   "dependencies": {
     "react": "^19.1.0",

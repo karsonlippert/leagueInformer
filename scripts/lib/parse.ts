@@ -1,5 +1,6 @@
 import type { Rarity } from "../../src/engine/types.ts";
 import type {
+  RejectedAugment,
   GeneratedAugment,
   GeneratedChampion,
   GeneratedItem,
@@ -52,10 +53,14 @@ export function cdragonUrl(assetPath: string): string {
  * Parse cherry-augments.json. That file mixes Arena and Mayhem augments; Mayhem entries are
  * the ones whose icon path sits under a "Kiwi" folder.
  */
-export function parseAugments(raw: unknown): ParseReport<GeneratedAugment> {
+export function parseAugments(
+  raw: unknown,
+): ParseReport<GeneratedAugment> & { rejected: RejectedAugment[]; fieldNames: string[] } {
   const skipped: Record<string, number> = {};
   const warnings: string[] = [];
   const entries: GeneratedAugment[] = [];
+  const rejected: RejectedAugment[] = [];
+  const fieldNames = new Set<string>();
 
   if (!Array.isArray(raw)) {
     throw new Error("cherry-augments.json: expected a top-level array");
@@ -67,9 +72,16 @@ export function parseAugments(raw: unknown): ParseReport<GeneratedAugment> {
       bump(skipped, "not an object");
       continue;
     }
+    for (const key of Object.keys(item)) fieldNames.add(key);
     const iconPath = asString(item.augmentSmallIconPath) ?? asString(item.augmentIconPath);
     if (!iconPath || !/\/kiwi\//i.test(iconPath)) {
       bump(skipped, "not a Mayhem augment");
+      rejected.push({
+        id: String(item.id ?? ""),
+        name: asString(item.nameTRA) ?? asString(item.name) ?? "",
+        rarity: String(item.rarity ?? ""),
+        iconPath: iconPath ?? "",
+      });
       continue;
     }
     const id = item.id === undefined || item.id === null ? undefined : String(item.id);
@@ -111,7 +123,7 @@ export function parseAugments(raw: unknown): ParseReport<GeneratedAugment> {
   }
 
   entries.sort((a, b) => Number(a.id) - Number(b.id) || a.id.localeCompare(b.id));
-  return { entries, skipped, warnings };
+  return { entries, skipped, warnings, rejected, fieldNames: [...fieldNames].sort() };
 }
 
 export function parseItems(raw: unknown, version: string): ParseReport<GeneratedItem> {

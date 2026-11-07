@@ -62,6 +62,7 @@ console.log(`  augments (Mayhem): ${augments.entries.length}`);
 console.log(`  items (Howling Abyss): ${items.entries.length}`);
 console.log(`  champions: ${champions.entries.length}`);
 describeSkips("augments", augments.skipped);
+console.log(`  raw augment fields: ${augments.fieldNames.join(", ")}`);
 describeSkips("items", items.skipped);
 describeSkips("champions", champions.skipped);
 for (const warning of [...augments.warnings, ...items.warnings, ...champions.warnings]) {
@@ -90,7 +91,8 @@ mkdirSync(out, { recursive: true });
 const write = (file: string, data: unknown) =>
   writeFileSync(join(out, file), JSON.stringify(data, null, 2) + "\n");
 write("augments.json", augments.entries);
+write("augments.rejected.json", augments.rejected);
 write("items.json", items.entries);
 write("champions.json", champions.entries);
 write("meta.json", meta);
-console.log(`\nWrote 4 files to ${out}`);
+console.log(`\nWrote 5 files to ${out}`);

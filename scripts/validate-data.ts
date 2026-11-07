@@ -41,6 +41,10 @@ if (existsSync(data("generated/meta.json"))) {
       items: optional(data("authored/items.json"), {}),
       champions: optional(data("authored/champions.json"), {}),
     },
+    championTiers: optional<{ championTiers: Record<string, Record<string, never>> }>(
+      data("tiers/champion-tiers.json"),
+      { championTiers: {} },
+    ).championTiers as never,
     sets: optional(data("sets.json"), []),
     rules: shipped.rules,
   });
