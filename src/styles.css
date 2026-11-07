@@ -45,3 +45,4 @@ legend { padding: 0 4px; color: var(--muted); font-size: .85rem; }
 .why { margin: 8px 0 0; padding-left: 18px; font-size: .9rem; }
 .up { color: var(--up); } .down { color: var(--down); }
 footer { margin-top: 32px; font-size: .75rem; color: var(--muted); }
+.synergy-label { font-size: .8rem; color: var(--muted); }

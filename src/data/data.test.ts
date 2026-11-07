@@ -54,10 +54,12 @@ describe("validateCatalog", () => {
     assert.match(issues.map((i) => i.message).join("\n"), /shares its name with heartsteel-empowered/);
   });
 
-  it("flags championDeltas for an unknown champion", () => {
+  it("flags championTiers for an unknown champion or an invalid tier", () => {
     const catalog = shipped();
-    catalog.augments[0].championDeltas = { Nobody: 1 };
-    assert.match(messages(catalog).join("\n"), /unknown champion "Nobody"/);
+    catalog.augments[0].championTiers = { Nobody: "A", "sample-mage": "Z" as never };
+    const text = messages(catalog).join("\n");
+    assert.match(text, /championTiers names unknown champion "Nobody"/);
+    assert.match(text, /invalid tier "Z"/);
   });
 });
 

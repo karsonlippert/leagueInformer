@@ -89,20 +89,12 @@ export function scoreAugment(
     }
   }
 
-  const championDelta = champion && augment.championDeltas?.[champion.id];
-  if (champion && championDelta) {
-    adjustments.push({
-      source: "champion",
-      label: `${champion.name}-specific adjustment`,
-      delta: championDelta,
-    });
-  }
-
-  const score = tierToScore(augment.baseTier) + adjustments.reduce((sum, a) => sum + a.delta, 0);
+  const baseTier = (champion && augment.championTiers?.[champion.id]) || augment.baseTier;
+  const score = tierToScore(baseTier) + adjustments.reduce((sum, a) => sum + a.delta, 0);
 
   return {
     augment,
-    baseTier: augment.baseTier,
+    baseTier,
     adjustedTier: scoreToTier(score),
     score,
     adjustments,

@@ -76,6 +76,30 @@ marketing or from a competitor's comparison post, so treat them as unverified.
 - Open source: `Lanternko/ARAM-Mayhem-Database`, `Nyx0ra/lol-aram-mayhem-hextech-helper`,
   `niftymonkey/champ-sage`, `Nikamura/lol-ocr`, `Yhprum/mayhem-tracker`.
 
+## Open decision: where per-champion base tiers come from
+
+The engine takes a base tier per champion (`championTiers`, falling back to `baseTier`) and
+shows synergy as an uplift, for example "B → A with synergy". The data source is undecided.
+
+Taking tiers from an aggregator that builds them from augment win rates is not settled, for
+these reasons:
+
+- Riot's League policy reportedly forbids displaying augment win rates, and Riot's stated aim
+  is to stop win rates from solving the mode. Whether a tier derived from win rates counts is
+  not confirmed anywhere we could read. Riot's TFT policy took a different line in 2023, so
+  TFT is not a guide for League. https://x.com/RiotGamesDevRel/status/1682101117076008960
+- Blitz and OP.GG are established Riot partners, so what they publish does not show what a
+  new product may do.
+- OP.GG's terms prohibit scraping. Blitz's terms were not fully checked. Any other source
+  needs its own permission.
+- Riot blocks the Mayhem match API, so aggregators build their numbers from data collected on
+  players' machines. We would depend on that collection.
+
+Ways forward, cheapest first: ask Riot developer relations whether tiers derived from win
+rates are allowed for ARAM Mayhem; ask a provider (for example ARAMKit, which advertises an
+API) for written permission to use its data; or author tiers ourselves from the augment
+descriptions. The engine works the same with any of them.
+
 ## Roadmap
 
 1. **Phase 1, this scaffold:** web app, manual entry, no game integration. Synergy rules

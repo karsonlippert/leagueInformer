@@ -8,13 +8,13 @@ export interface Augment {
   id: string;
   name: string;
   rarity: Rarity;
-  /** Hand-authored tier with no build context. Never derived from win rates. */
+  /** Tier with no build context, used when `championTiers` has no entry for the champion. */
   baseTier: Tier;
+  /** Tier for a specific champion, by champion id. Overrides `baseTier` for that champion. */
+  championTiers?: Record<string, Tier>;
   /** Effect vocabulary shared with items and champions, e.g. "on-hit". */
   tags: string[];
   setId?: string;
-  /** Per-champion adjustments in tier steps, for ability augments. */
-  championDeltas?: Record<string, number>;
   note?: string;
 }
 
@@ -65,14 +65,16 @@ export interface Rule {
 }
 
 export interface Adjustment {
-  source: "rule" | "set" | "champion" | "duplicate";
+  source: "rule" | "set" | "duplicate";
   label: string;
   delta: number;
 }
 
 export interface ScoredAugment {
   augment: Augment;
+  /** The augment's tier for this champion before any synergy. */
   baseTier: Tier;
+  /** The tier after synergies with the current build. */
   adjustedTier: Tier;
   /** Unrounded score in tier steps, used for ordering ties. */
   score: number;

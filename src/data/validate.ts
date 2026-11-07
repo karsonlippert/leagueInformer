@@ -49,8 +49,9 @@ export function validateCatalog(catalog: Catalog, vocabulary: TagVocabulary): Is
     checkTags(owner, augment.tags);
     if (!TIER_ORDER.includes(augment.baseTier)) error(`${owner}: invalid baseTier "${augment.baseTier}"`);
     if (augment.setId && !setIds.has(augment.setId)) error(`${owner}: unknown setId "${augment.setId}"`);
-    for (const championId of Object.keys(augment.championDeltas ?? {})) {
-      if (!championIds.has(championId)) error(`${owner}: championDeltas names unknown champion "${championId}"`);
+    for (const [championId, tier] of Object.entries(augment.championTiers ?? {})) {
+      if (!championIds.has(championId)) error(`${owner}: championTiers names unknown champion "${championId}"`);
+      if (!TIER_ORDER.includes(tier)) error(`${owner}: invalid tier "${tier}" for champion "${championId}"`);
     }
   }
   for (const item of catalog.items) checkTags(`item "${item.id}" (${item.name})`, item.tags);

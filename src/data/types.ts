@@ -37,7 +37,7 @@ export interface AuthoredAugment {
   tags: string[];
   setId?: string;
   note?: string;
-  championDeltas?: Record<string, number>;
+  championTiers?: Record<string, Tier>;
 }
 
 export interface AuthoredItem {

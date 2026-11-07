@@ -106,3 +106,33 @@ describe("rankOffers", () => {
     assert.deepEqual(rankOffers(["nope"], empty, catalog), []);
   });
 });
+
+describe("per-champion base tiers", () => {
+  const withChampionTiers = {
+    ...catalog,
+    augments: catalog.augments.map((a) =>
+      a.id === "sample-ability-onhit"
+        ? { ...a, baseTier: "C" as const, championTiers: { "sample-marksman": "B" as const } }
+        : a,
+    ),
+  };
+  const onHit = withChampionTiers.augments.find((a) => a.id === "sample-ability-onhit")!;
+
+  it("uses the champion's own base tier when one exists", () => {
+    const result = scoreAugment(onHit, { ...empty, championId: "sample-marksman" }, withChampionTiers);
+    assert.equal(result.baseTier, "B");
+    assert.equal(result.adjustedTier, "B");
+  });
+
+  it("falls back to the general base tier for other champions", () => {
+    const result = scoreAugment(onHit, { ...empty, championId: "sample-mage" }, withChampionTiers);
+    assert.equal(result.baseTier, "C");
+  });
+
+  it("applies synergy on top of the champion's base tier", () => {
+    const context: BuildContext = { championId: "sample-marksman", itemIds: ["heartsteel"], takenAugmentIds: [] };
+    const result = scoreAugment(onHit, context, withChampionTiers);
+    assert.equal(result.baseTier, "B");
+    assert.equal(result.adjustedTier, "S");
+  });
+});
